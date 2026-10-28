@@ -1,0 +1,367 @@
+{
+  "sources": {
+    "master": {
+      "rows": 3000,
+      "distinct_keys": 3000,
+      "phone_quality": {
+        "normalized": 2954,
+        "invalid_length_or_country": 33,
+        "unexpected_sudan_prefix": 13
+      },
+      "exact_duplicate_rows": 0
+    },
+    "calls": {
+      "rows": 4118,
+      "distinct_keys": 3002,
+      "phone_quality": {
+        "normalized": 4038,
+        "invalid_length_or_country": 71,
+        "unexpected_sudan_prefix": 9
+      },
+      "exact_duplicate_rows": 0
+    },
+    "responses": {
+      "rows": 116,
+      "distinct_keys": 116,
+      "phone_quality": {
+        "normalized": 116
+      },
+      "exact_duplicate_rows": 0
+    }
+  },
+  "master_rows": 3000,
+  "master_unique_keys": 3000,
+  "master_valid_phones": 2954,
+  "duplicate_master_phone_keys": 0,
+  "calls": 4118,
+  "called": 3002,
+  "reached": 804,
+  "answered_calls": 812,
+  "unanswered_calls": 3306,
+  "raw_completed": 116,
+  "log_completed": 133,
+  "started_proxy": 220,
+  "intro_snapshot": 568,
+  "call_rows_matched_master": 4086,
+  "called_keys_matched_master": 2991,
+  "response_rows_matched_master": 113,
+  "unmatched_called_keys": 11,
+  "unmatched_response_keys": 3,
+  "invalid_exact_call_rows_matched": 57,
+  "master_not_called": 9,
+  "log_flags_not_in_response_file": 17,
+  "raw_completers_not_log_flagged": 0,
+  "prelaunch_attempts": 9,
+  "prelaunch_contacts": 4,
+  "prelaunch_completed": 3,
+  "outside_09_20_scheduled_attempts": 0,
+  "mapping_issues": [
+    {
+      "attribute": "Gender",
+      "code": "GEN_5.253370332742474",
+      "labels": "Unknown",
+      "reliable": false
+    },
+    {
+      "attribute": "Locality",
+      "code": "LOC_026",
+      "labels": "Unknown",
+      "reliable": false
+    },
+    {
+      "attribute": "Locality",
+      "code": "LOC_031",
+      "labels": "Wad ElHilew | Wad Elhilew",
+      "reliable": false
+    },
+    {
+      "attribute": "Locality",
+      "code": "Unknown",
+      "labels": "Unknown",
+      "reliable": false
+    },
+    {
+      "attribute": "SupportProject",
+      "code": "SUPP_011",
+      "labels": "Unknown",
+      "reliable": false
+    },
+    {
+      "attribute": "SupportProject",
+      "code": "Unknown",
+      "labels": "Unknown",
+      "reliable": false
+    }
+  ],
+  "attribute_conflicts": 0,
+  "age_invalid_or_missing": 367,
+  "income_q07_ineligible": 35,
+  "income_q08_ineligible": 0,
+  "questions_answered_field_all_zero": true,
+  "platform_attempts_sum_not_valid": 28946,
+  "rates": {
+    "contact_rate": {
+      "percent": 26.78,
+      "numerator": 804,
+      "denominator": 3002,
+      "definition": "Unique phones ever answered / unique phones called"
+    },
+    "answer_rate": {
+      "percent": 19.72,
+      "numerator": 812,
+      "denominator": 4118,
+      "definition": "Answered call-log rows / all call-log rows"
+    },
+    "completion_called": {
+      "percent": 3.86,
+      "numerator": 116,
+      "denominator": 3002,
+      "definition": "Unique completed-response phones / unique called phones"
+    },
+    "completion_reached": {
+      "percent": 14.43,
+      "numerator": 116,
+      "denominator": 804,
+      "definition": "Completed-response phones ever answered / reached phones"
+    },
+    "completion_started_proxy": {
+      "percent": 52.73,
+      "numerator": 116,
+      "denominator": 220,
+      "definition": "Completed-response phones / phones with Q01 snapshot (proxy, not event timestamps)"
+    },
+    "repeat_call_rate": {
+      "percent": 31.08,
+      "numerator": 933,
+      "denominator": 3002,
+      "definition": "Phones with >1 observed log row / called phones"
+    }
+  },
+  "average_observed_attempts": 1.372,
+  "reconciliation": [
+    {
+      "metric": "Unique phones called",
+      "reported": 3002,
+      "recomputed": 3002,
+      "difference": 0,
+      "explanation": "Includes four pre-launch contacts; scheduled rows are not confirmed carrier-level retry events."
+    },
+    {
+      "metric": "Unique reached",
+      "reported": 804,
+      "recomputed": 804,
+      "difference": 0,
+      "explanation": "Any Finished status, disjoint ever-reached classification."
+    },
+    {
+      "metric": "Never answered",
+      "reported": 2198,
+      "recomputed": 2198,
+      "difference": 0,
+      "explanation": "Called phones with no Finished status across any attempt."
+    },
+    {
+      "metric": "Intro snapshot",
+      "reported": 561,
+      "recomputed": 568,
+      "difference": 7,
+      "explanation": "Undated subscriber snapshot; not an intro-play event."
+    },
+    {
+      "metric": "Started proxy",
+      "reported": 211,
+      "recomputed": 220,
+      "difference": 9,
+      "explanation": "Q01 present, since started flag is entirely empty; not necessarily same report definition."
+    },
+    {
+      "metric": "Completed response records",
+      "reported": 117,
+      "recomputed": 116,
+      "difference": -1,
+      "explanation": "116 response records; 133 log flags; no basis to manufacture the reported 117th response."
+    },
+    {
+      "metric": "R1Q01 subscriber answers",
+      "reported": 211,
+      "recomputed": 220,
+      "difference": 9,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q02 subscriber answers",
+      "reported": 32,
+      "recomputed": 35,
+      "difference": 3,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q03 subscriber answers",
+      "reported": 180,
+      "recomputed": 191,
+      "difference": 11,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q04 subscriber answers",
+      "reported": 169,
+      "recomputed": 181,
+      "difference": 12,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q05 subscriber answers",
+      "reported": 153,
+      "recomputed": 168,
+      "difference": 15,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q06 subscriber answers",
+      "reported": 146,
+      "recomputed": 160,
+      "difference": 14,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q07 subscriber answers",
+      "reported": 57,
+      "recomputed": 62,
+      "difference": 5,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q08 subscriber answers",
+      "reported": 85,
+      "recomputed": 92,
+      "difference": 7,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q09 subscriber answers",
+      "reported": 135,
+      "recomputed": 146,
+      "difference": 11,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q10 subscriber answers",
+      "reported": 129,
+      "recomputed": 141,
+      "difference": 12,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q11 subscriber answers",
+      "reported": 127,
+      "recomputed": 138,
+      "difference": 11,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q12 subscriber answers",
+      "reported": 123,
+      "recomputed": 134,
+      "difference": 11,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    },
+    {
+      "metric": "R1Q13 subscriber answers",
+      "reported": 120,
+      "recomputed": 133,
+      "difference": 13,
+      "explanation": "Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference."
+    }
+  ],
+  "repeat_cohorts": [
+    {
+      "attempt_band": "1",
+      "phones": 2069,
+      "reached": 726,
+      "completed": 109,
+      "contact_rate": 35.09,
+      "completion_rate": 5.27
+    },
+    {
+      "attempt_band": "2",
+      "phones": 849,
+      "reached": 77,
+      "completed": 6,
+      "contact_rate": 9.07,
+      "completion_rate": 0.71
+    },
+    {
+      "attempt_band": "3",
+      "phones": 1,
+      "reached": 1,
+      "completed": 1,
+      "contact_rate": 100.0,
+      "completion_rate": 100.0
+    },
+    {
+      "attempt_band": "4+",
+      "phones": 83,
+      "reached": 0,
+      "completed": 0,
+      "contact_rate": 0.0,
+      "completion_rate": 0.0
+    }
+  ],
+  "incremental_reach": [
+    {
+      "sequence": 1,
+      "attempts": 3002,
+      "previously_unreached": 3002,
+      "newly_reached": 736,
+      "conditional_pickup_percent": 24.52
+    },
+    {
+      "sequence": 2,
+      "attempts": 933,
+      "previously_unreached": 923,
+      "newly_reached": 67,
+      "conditional_pickup_percent": 7.26
+    },
+    {
+      "sequence": 3,
+      "attempts": 84,
+      "previously_unreached": 84,
+      "newly_reached": 1,
+      "conditional_pickup_percent": 1.19
+    },
+    {
+      "sequence": 4,
+      "attempts": 83,
+      "previously_unreached": 83,
+      "newly_reached": 0,
+      "conditional_pickup_percent": 0.0
+    },
+    {
+      "sequence": 5,
+      "attempts": 8,
+      "previously_unreached": 8,
+      "newly_reached": 0,
+      "conditional_pickup_percent": 0.0
+    },
+    {
+      "sequence": 6,
+      "attempts": 8,
+      "previously_unreached": 8,
+      "newly_reached": 0,
+      "conditional_pickup_percent": 0.0
+    }
+  ],
+  "source_hashes": {
+    "call-logs-2026-10-02-1138422977bf.xlsx": "22f3dde926411bd89c7335be7497c6580ad8b231d81e0c0b54827480cb5bc0da",
+    "master_data_with_code.xlsx": "3201af0010d627819d898ce3722a8bc656138e2593343f8c08ac73b025ace0ef",
+    "Raw data for completed responses.xlsx": "001331effc2054601758f1ae87dbcc7157ecb0825f5492fd2c50a11f3873789e",
+    "SD UNDP Report September Activities.docx": "7ab2a4c481912783ef4fd80bf63c7ea90ea430500ccb617ce023dd8126f78d14",
+    "UNDP Sudan Farmers Survey - September 2026 Report.xlsx": "fd4f7b21a861533b9a081cbdb3a20cba98f3a67dd471a03c77a3b30c94cbdd75"
+  },
+  "call_match_rate_rows": 99.22,
+  "call_match_rate_unique": 99.63,
+  "response_match_rate": 97.41,
+  "failed_suspect_number_rows": 350,
+  "failed_suspect_number_contacts": 317,
+  "failed_suspect_number_contacts_ever_reached": 16
+}

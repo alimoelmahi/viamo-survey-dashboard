@@ -1,0 +1,1298 @@
+person_id,question,answer
+P03004,R1Q01,Resident of this area
+P03004,R1Q03,No
+P03004,R1Q04,Trading or vending
+P03004,R1Q05,Education
+P03004,R1Q06,Decreased
+P03004,R1Q07,Higher crop yield
+P03004,R1Q08,Rising costs
+P03004,R1Q09,Yes
+P03004,R1Q10,Very Difficult
+P03004,R1Q11,No
+P03004,R1Q12,Difficult
+P03004,R1Q13,"No, there were not diseases this month"
+P03002,R1Q01,Resident of this area
+P03002,R1Q03,No
+P03002,R1Q04,Agriculture or Farming
+P03002,R1Q05,Savings
+P03002,R1Q06,Stayed the same
+P03002,R1Q07,New job or loan
+P03002,R1Q09,No
+P03002,R1Q10,Difficult
+P03002,R1Q11,No
+P03002,R1Q12,Very Difficult
+P03002,R1Q13,"Yes, if there is a water related disease"
+P03001,R1Q01,Resident of this area
+P03001,R1Q03,Yes
+P03001,R1Q04,Other
+P03001,R1Q05,Savings
+P03001,R1Q06,Increased
+P03001,R1Q07,New job or loan
+P03001,R1Q09,No
+P03001,R1Q10,Difficult
+P03001,R1Q11,No
+P03001,R1Q12,Very Difficult
+P03001,R1Q13,"No, there were not diseases this month"
+P02901,R1Q01,IDP or an internally displaced person
+P02901,R1Q02,No
+P02901,R1Q03,No
+P02901,R1Q04,Other
+P02901,R1Q05,Education
+P02901,R1Q06,Stayed the same
+P02901,R1Q07,Higher crop yield
+P02901,R1Q09,Yes
+P02901,R1Q10,Easy
+P02901,R1Q11,No
+P02901,R1Q12,Difficult
+P02901,R1Q13,"Yes, if there is a water related disease"
+P01974,R1Q01,IDP or an internally displaced person
+P01974,R1Q02,Yes
+P01974,R1Q03,No
+P01974,R1Q04,Other
+P01974,R1Q05,Repaying Debt
+P01974,R1Q06,Decreased
+P01974,R1Q08,Rising costs
+P01974,R1Q09,Yes
+P01974,R1Q10,Difficult
+P01974,R1Q11,No
+P01974,R1Q12,Very Difficult
+P01974,R1Q13,"Yes, if there is a water related disease"
+P01967,R1Q01,Resident of this area
+P01967,R1Q03,No
+P01967,R1Q04,Agriculture or Farming
+P01967,R1Q05,Education
+P01967,R1Q06,Decreased
+P01967,R1Q08,Other
+P01967,R1Q09,No
+P01967,R1Q10,Very Easy
+P01967,R1Q11,No
+P01967,R1Q12,Difficult
+P01967,R1Q13,"No, there were not diseases this month"
+P01956,R1Q01,Resident of this area
+P01956,R1Q03,No
+P01956,R1Q04,Other
+P01956,R1Q05,Education
+P01956,R1Q06,Decreased
+P01956,R1Q08,Rising costs
+P01956,R1Q09,No
+P01956,R1Q10,Easy
+P01956,R1Q11,Yes
+P01956,R1Q12,Difficult
+P01956,R1Q13,"No, there were not diseases this month"
+P01830,R1Q01,Resident of this area
+P01830,R1Q03,Yes
+P01830,R1Q04,Trading or vending
+P01830,R1Q05,Food
+P01830,R1Q06,Increased
+P01830,R1Q07,New job or loan
+P01830,R1Q09,No
+P01830,R1Q10,Very Difficult
+P01830,R1Q11,Yes
+P01830,R1Q12,Very Difficult
+P01830,R1Q13,Yes there is a disease but not related to water
+P01722,R1Q01,Resident of this area
+P01722,R1Q03,No
+P01722,R1Q04,Trading or vending
+P01722,R1Q05,Food
+P01722,R1Q06,Decreased
+P01722,R1Q08,Rising costs
+P01722,R1Q09,No
+P01722,R1Q10,Difficult
+P01722,R1Q11,Yes
+P01722,R1Q12,Easy
+P01722,R1Q13,"No, there were not diseases this month"
+P01679,R1Q01,IDP or an internally displaced person
+P01679,R1Q02,Yes
+P01679,R1Q03,Yes
+P01679,R1Q04,Other
+P01679,R1Q05,Education
+P01679,R1Q06,Decreased
+P01679,R1Q08,Insecurity or low demand
+P01679,R1Q09,No
+P01679,R1Q10,Very Difficult
+P01679,R1Q11,No
+P01679,R1Q12,Very Difficult
+P01679,R1Q13,Yes there is a disease but not related to water
+P01619,R1Q01,IDP or an internally displaced person
+P01619,R1Q02,Yes
+P01619,R1Q03,No
+P01619,R1Q04,Trading or vending
+P01619,R1Q05,Food
+P01619,R1Q06,Stayed the same
+P01619,R1Q07,More customers
+P01619,R1Q09,No
+P01619,R1Q10,Very Easy
+P01619,R1Q11,Yes
+P01619,R1Q12,Very Easy
+P01619,R1Q13,"No, there were not diseases this month"
+P01617,R1Q01,Resident of this area
+P01617,R1Q03,No
+P01617,R1Q04,Agriculture or Farming
+P01617,R1Q05,Food
+P01617,R1Q06,Stayed the same
+P01617,R1Q07,Other
+P01617,R1Q09,No
+P01617,R1Q10,Easy
+P01617,R1Q11,No
+P01617,R1Q12,Easy
+P01617,R1Q13,"No, there were not diseases this month"
+P01583,R1Q01,Resident of this area
+P01583,R1Q03,No
+P01583,R1Q04,Other
+P01583,R1Q05,Food
+P01583,R1Q06,Decreased
+P01583,R1Q08,Rising costs
+P01583,R1Q09,No
+P01583,R1Q10,Easy
+P01583,R1Q11,Yes
+P01583,R1Q12,Difficult
+P01583,R1Q13,"No, there were not diseases this month"
+P01574,R1Q01,Refugee
+P01574,R1Q02,Yes
+P01574,R1Q03,Yes
+P01574,R1Q04,Formal or informal employment
+P01574,R1Q05,Food
+P01574,R1Q06,Decreased
+P01574,R1Q08,Rising costs
+P01574,R1Q09,No
+P01574,R1Q10,Easy
+P01574,R1Q11,Yes
+P01574,R1Q12,Very Easy
+P01574,R1Q13,"No, there were not diseases this month"
+P01537,R1Q01,Resident of this area
+P01537,R1Q03,No
+P01537,R1Q04,Agriculture or Farming
+P01537,R1Q05,Food
+P01537,R1Q06,Stayed the same
+P01537,R1Q07,Other
+P01537,R1Q09,No
+P01537,R1Q10,Very Easy
+P01537,R1Q11,Yes
+P01537,R1Q12,Difficult
+P01537,R1Q13,"No, there were not diseases this month"
+P01536,R1Q01,Resident of this area
+P01536,R1Q03,No
+P01536,R1Q04,Agriculture or Farming
+P01536,R1Q05,Food
+P01536,R1Q06,Decreased
+P01536,R1Q08,Rising costs
+P01536,R1Q09,No
+P01536,R1Q10,Very Easy
+P01536,R1Q11,No
+P01536,R1Q12,Easy
+P01536,R1Q13,"No, there were not diseases this month"
+P01533,R1Q01,IDP or an internally displaced person
+P01533,R1Q02,No
+P01533,R1Q03,No
+P01533,R1Q04,Agriculture or Farming
+P01533,R1Q05,Food
+P01533,R1Q06,Decreased
+P01533,R1Q08,Rising costs
+P01533,R1Q09,No
+P01533,R1Q10,Easy
+P01533,R1Q11,Yes
+P01533,R1Q12,Very Easy
+P01533,R1Q13,"No, there were not diseases this month"
+P01522,R1Q01,Resident of this area
+P01522,R1Q03,No
+P01522,R1Q04,Agriculture or Farming
+P01522,R1Q05,Repaying Debt
+P01522,R1Q06,Decreased
+P01522,R1Q08,Insecurity or low demand
+P01522,R1Q09,No
+P01522,R1Q10,Difficult
+P01522,R1Q11,Yes
+P01522,R1Q12,Easy
+P01522,R1Q13,Yes there is a disease but not related to water
+P01518,R1Q01,Resident of this area
+P01518,R1Q03,No
+P01518,R1Q04,Agriculture or Farming
+P01518,R1Q05,Food
+P01518,R1Q06,Decreased
+P01518,R1Q08,Rising costs
+P01518,R1Q09,Yes
+P01518,R1Q10,Easy
+P01518,R1Q11,No
+P01518,R1Q12,Easy
+P01518,R1Q13,"No, there were not diseases this month"
+P01513,R1Q01,Resident of this area
+P01513,R1Q03,No
+P01513,R1Q04,Agriculture or Farming
+P01513,R1Q05,Repaying Debt
+P01513,R1Q06,Stayed the same
+P01513,R1Q07,New job or loan
+P01513,R1Q09,No
+P01513,R1Q10,Very Easy
+P01513,R1Q11,No
+P01513,R1Q12,Difficult
+P01513,R1Q13,"No, there were not diseases this month"
+P01503,R1Q01,Resident of this area
+P01503,R1Q03,Yes
+P01503,R1Q04,Agriculture or Farming
+P01503,R1Q05,Repaying Debt
+P01503,R1Q06,Stayed the same
+P01503,R1Q07,Other
+P01503,R1Q09,No
+P01503,R1Q10,Difficult
+P01503,R1Q11,Yes
+P01503,R1Q12,Difficult
+P01503,R1Q13,Yes there is a disease but not related to water
+P01494,R1Q01,Resident of this area
+P01494,R1Q03,No
+P01494,R1Q04,Agriculture or Farming
+P01494,R1Q05,Repaying Debt
+P01494,R1Q06,Decreased
+P01494,R1Q08,Insecurity or low demand
+P01494,R1Q09,No
+P01494,R1Q10,Difficult
+P01494,R1Q11,Yes
+P01494,R1Q12,Difficult
+P01494,R1Q13,"No, there were not diseases this month"
+P01474,R1Q01,Resident of this area
+P01474,R1Q03,Yes
+P01474,R1Q04,Agriculture or Farming
+P01474,R1Q05,Repaying Debt
+P01474,R1Q06,Decreased
+P01474,R1Q08,Poor rains or water
+P01474,R1Q09,No
+P01474,R1Q10,Very Easy
+P01474,R1Q11,Yes
+P01474,R1Q12,Difficult
+P01474,R1Q13,Yes there is a disease but not related to water
+P01470,R1Q01,Resident of this area
+P01470,R1Q03,Yes
+P01470,R1Q04,Formal or informal employment
+P01470,R1Q05,Food
+P01470,R1Q06,Decreased
+P01470,R1Q08,Rising costs
+P01470,R1Q09,No
+P01470,R1Q10,Very Easy
+P01470,R1Q11,Yes
+P01470,R1Q12,Difficult
+P01470,R1Q13,"Yes, if there is a water related disease"
+P01469,R1Q01,Resident of this area
+P01469,R1Q03,No
+P01469,R1Q04,Agriculture or Farming
+P01469,R1Q05,Repaying Debt
+P01469,R1Q06,Stayed the same
+P01469,R1Q07,Other
+P01469,R1Q09,No
+P01469,R1Q10,Very Difficult
+P01469,R1Q11,Yes
+P01469,R1Q12,Easy
+P01469,R1Q13,"No, there were not diseases this month"
+P01449,R1Q01,Resident of this area
+P01449,R1Q03,Yes
+P01449,R1Q04,Agriculture or Farming
+P01449,R1Q05,Food
+P01449,R1Q06,Decreased
+P01449,R1Q08,Rising costs
+P01449,R1Q09,No
+P01449,R1Q10,Easy
+P01449,R1Q11,Yes
+P01449,R1Q12,Very Difficult
+P01449,R1Q13,Yes there is a disease but not related to water
+P01370,R1Q01,Resident of this area
+P01370,R1Q03,No
+P01370,R1Q04,Trading or vending
+P01370,R1Q05,Repaying Debt
+P01370,R1Q06,Decreased
+P01370,R1Q08,Insecurity or low demand
+P01370,R1Q09,No
+P01370,R1Q10,Very Easy
+P01370,R1Q11,No
+P01370,R1Q12,Difficult
+P01370,R1Q13,"No, there were not diseases this month"
+P01355,R1Q01,Resident of this area
+P01355,R1Q03,Yes
+P01355,R1Q04,Agriculture or Farming
+P01355,R1Q05,Food
+P01355,R1Q06,Stayed the same
+P01355,R1Q07,More customers
+P01355,R1Q09,No
+P01355,R1Q10,Very Easy
+P01355,R1Q11,No
+P01355,R1Q12,Very Easy
+P01355,R1Q13,Yes there is a disease but not related to water
+P01353,R1Q01,Resident of this area
+P01353,R1Q03,Yes
+P01353,R1Q04,Other
+P01353,R1Q05,Food
+P01353,R1Q06,Stayed the same
+P01353,R1Q07,Other
+P01353,R1Q09,No
+P01353,R1Q10,Very Easy
+P01353,R1Q11,Yes
+P01353,R1Q12,Easy
+P01353,R1Q13,Yes there is a disease but not related to water
+P01336,R1Q01,IDP or an internally displaced person
+P01336,R1Q02,No
+P01336,R1Q03,No
+P01336,R1Q04,Other
+P01336,R1Q05,Repaying Debt
+P01336,R1Q06,Decreased
+P01336,R1Q08,Rising costs
+P01336,R1Q09,No
+P01336,R1Q10,Very Difficult
+P01336,R1Q11,Yes
+P01336,R1Q12,Difficult
+P01336,R1Q13,"No, there were not diseases this month"
+P01315,R1Q01,Resident of this area
+P01315,R1Q03,Yes
+P01315,R1Q04,Agriculture or Farming
+P01315,R1Q05,Food
+P01315,R1Q06,Increased
+P01315,R1Q07,Higher crop yield
+P01315,R1Q09,No
+P01315,R1Q10,Difficult
+P01315,R1Q11,Yes
+P01315,R1Q12,Easy
+P01315,R1Q13,"No, there were not diseases this month"
+P01302,R1Q01,Resident of this area
+P01302,R1Q03,No
+P01302,R1Q04,Agriculture or Farming
+P01302,R1Q05,Food
+P01302,R1Q06,Decreased
+P01302,R1Q08,Rising costs
+P01302,R1Q09,No
+P01302,R1Q10,Very Easy
+P01302,R1Q11,Yes
+P01302,R1Q12,Easy
+P01302,R1Q13,Yes there is a disease but not related to water
+P01294,R1Q01,Resident of this area
+P01294,R1Q03,No
+P01294,R1Q04,Agriculture or Farming
+P01294,R1Q05,Food
+P01294,R1Q06,Decreased
+P01294,R1Q08,Rising costs
+P01294,R1Q09,No
+P01294,R1Q10,Very Easy
+P01294,R1Q11,Yes
+P01294,R1Q12,Easy
+P01294,R1Q13,"No, there were not diseases this month"
+P01292,R1Q01,Resident of this area
+P01292,R1Q03,No
+P01292,R1Q04,Agriculture or Farming
+P01292,R1Q05,Food
+P01292,R1Q06,Decreased
+P01292,R1Q08,Rising costs
+P01292,R1Q09,No
+P01292,R1Q10,Difficult
+P01292,R1Q11,No
+P01292,R1Q12,Very Easy
+P01292,R1Q13,"Yes, if there is a water related disease"
+P01265,R1Q01,Resident of this area
+P01265,R1Q03,Yes
+P01265,R1Q04,Agriculture or Farming
+P01265,R1Q05,Education
+P01265,R1Q06,Stayed the same
+P01265,R1Q07,Other
+P01265,R1Q09,Yes
+P01265,R1Q10,Very Easy
+P01265,R1Q11,Yes
+P01265,R1Q12,Difficult
+P01265,R1Q13,"Yes, if there is a water related disease"
+P01262,R1Q01,Resident of this area
+P01262,R1Q03,No
+P01262,R1Q04,Agriculture or Farming
+P01262,R1Q05,Repaying Debt
+P01262,R1Q06,Stayed the same
+P01262,R1Q07,Higher crop yield
+P01262,R1Q09,No
+P01262,R1Q10,Difficult
+P01262,R1Q11,No
+P01262,R1Q12,Difficult
+P01262,R1Q13,Yes there is a disease but not related to water
+P01259,R1Q01,Resident of this area
+P01259,R1Q03,Yes
+P01259,R1Q04,Agriculture or Farming
+P01259,R1Q05,Food
+P01259,R1Q06,Stayed the same
+P01259,R1Q07,More customers
+P01259,R1Q09,No
+P01259,R1Q10,Difficult
+P01259,R1Q11,No
+P01259,R1Q12,Easy
+P01259,R1Q13,"No, there were not diseases this month"
+P01255,R1Q01,Resident of this area
+P01255,R1Q03,No
+P01255,R1Q04,Agriculture or Farming
+P01255,R1Q05,Repaying Debt
+P01255,R1Q06,Decreased
+P01255,R1Q08,Insecurity or low demand
+P01255,R1Q09,No
+P01255,R1Q10,Very Easy
+P01255,R1Q11,Yes
+P01255,R1Q12,Very Difficult
+P01255,R1Q13,"No, there were not diseases this month"
+P01252,R1Q01,IDP or an internally displaced person
+P01252,R1Q02,Yes
+P01252,R1Q03,Yes
+P01252,R1Q04,Agriculture or Farming
+P01252,R1Q05,Food
+P01252,R1Q06,Stayed the same
+P01252,R1Q07,Higher crop yield
+P01252,R1Q09,No
+P01252,R1Q10,Easy
+P01252,R1Q11,Yes
+P01252,R1Q12,Easy
+P01252,R1Q13,"No, there were not diseases this month"
+P01247,R1Q01,Resident of this area
+P01247,R1Q03,Yes
+P01247,R1Q04,Agriculture or Farming
+P01247,R1Q05,Food
+P01247,R1Q06,Stayed the same
+P01247,R1Q07,Higher crop yield
+P01247,R1Q09,No
+P01247,R1Q10,Very Easy
+P01247,R1Q11,Yes
+P01247,R1Q12,Easy
+P01247,R1Q13,"No, there were not diseases this month"
+P01244,R1Q01,IDP or an internally displaced person
+P01244,R1Q02,Yes
+P01244,R1Q03,No
+P01244,R1Q04,Trading or vending
+P01244,R1Q05,Repaying Debt
+P01244,R1Q06,Decreased
+P01244,R1Q08,Insecurity or low demand
+P01244,R1Q09,No
+P01244,R1Q10,Very Easy
+P01244,R1Q11,Yes
+P01244,R1Q12,Difficult
+P01244,R1Q13,Yes there is a disease but not related to water
+P01238,R1Q01,Resident of this area
+P01238,R1Q03,No
+P01238,R1Q04,Agriculture or Farming
+P01238,R1Q05,Food
+P01238,R1Q06,Decreased
+P01238,R1Q08,Insecurity or low demand
+P01238,R1Q09,No
+P01238,R1Q10,Very Easy
+P01238,R1Q11,Yes
+P01238,R1Q12,Easy
+P01238,R1Q13,"No, there were not diseases this month"
+P01219,R1Q01,Resident of this area
+P01219,R1Q03,No
+P01219,R1Q04,Agriculture or Farming
+P01219,R1Q05,Repaying Debt
+P01219,R1Q06,Decreased
+P01219,R1Q08,Poor rains or water
+P01219,R1Q09,No
+P01219,R1Q10,Difficult
+P01219,R1Q11,No
+P01219,R1Q12,Difficult
+P01219,R1Q13,"Yes, if there is a water related disease"
+P01215,R1Q01,Resident of this area
+P01215,R1Q03,No
+P01215,R1Q04,Formal or informal employment
+P01215,R1Q05,Repaying Debt
+P01215,R1Q06,Decreased
+P01215,R1Q08,Rising costs
+P01215,R1Q09,No
+P01215,R1Q10,Very Easy
+P01215,R1Q11,Yes
+P01215,R1Q12,Difficult
+P01215,R1Q13,"No, there were not diseases this month"
+P01178,R1Q01,Resident of this area
+P01178,R1Q03,No
+P01178,R1Q04,Trading or vending
+P01178,R1Q05,Food
+P01178,R1Q06,Decreased
+P01178,R1Q08,Rising costs
+P01178,R1Q09,No
+P01178,R1Q10,Easy
+P01178,R1Q11,Yes
+P01178,R1Q12,Difficult
+P01178,R1Q13,"No, there were not diseases this month"
+P01172,R1Q01,Resident of this area
+P01172,R1Q03,No
+P01172,R1Q04,Formal or informal employment
+P01172,R1Q05,Food
+P01172,R1Q06,Stayed the same
+P01172,R1Q07,More customers
+P01172,R1Q09,No
+P01172,R1Q10,Very Easy
+P01172,R1Q11,Yes
+P01172,R1Q12,Difficult
+P01172,R1Q13,Yes there is a disease but not related to water
+P01138,R1Q01,Resident of this area
+P01138,R1Q03,No
+P01138,R1Q04,Other
+P01138,R1Q05,Education
+P01138,R1Q06,Decreased
+P01138,R1Q08,Rising costs
+P01138,R1Q09,No
+P01138,R1Q10,Difficult
+P01138,R1Q11,Yes
+P01138,R1Q12,Difficult
+P01138,R1Q13,"Yes, if there is a water related disease"
+P01107,R1Q01,Resident of this area
+P01107,R1Q03,No
+P01107,R1Q04,Formal or informal employment
+P01107,R1Q05,Education
+P01107,R1Q06,Stayed the same
+P01107,R1Q07,New job or loan
+P01107,R1Q09,No
+P01107,R1Q10,Easy
+P01107,R1Q11,Yes
+P01107,R1Q12,Easy
+P01107,R1Q13,Yes there is a disease but not related to water
+P01100,R1Q01,Resident of this area
+P01100,R1Q03,No
+P01100,R1Q04,Formal or informal employment
+P01100,R1Q05,Food
+P01100,R1Q06,Decreased
+P01100,R1Q08,Rising costs
+P01100,R1Q09,No
+P01100,R1Q10,Very Easy
+P01100,R1Q11,Yes
+P01100,R1Q12,Difficult
+P01100,R1Q13,Yes there is a disease but not related to water
+P01093,R1Q01,Resident of this area
+P01093,R1Q03,No
+P01093,R1Q04,Agriculture or Farming
+P01093,R1Q05,Food
+P01093,R1Q06,Stayed the same
+P01093,R1Q07,New job or loan
+P01093,R1Q09,No
+P01093,R1Q10,Difficult
+P01093,R1Q11,No
+P01093,R1Q12,Easy
+P01093,R1Q13,"Yes, if there is a water related disease"
+P01092,R1Q01,Resident of this area
+P01092,R1Q03,No
+P01092,R1Q04,Agriculture or Farming
+P01092,R1Q05,Repaying Debt
+P01092,R1Q06,Decreased
+P01092,R1Q08,Insecurity or low demand
+P01092,R1Q09,No
+P01092,R1Q10,Difficult
+P01092,R1Q11,No
+P01092,R1Q12,Difficult
+P01092,R1Q13,"No, there were not diseases this month"
+P01085,R1Q01,Resident of this area
+P01085,R1Q03,Yes
+P01085,R1Q04,Other
+P01085,R1Q05,Food
+P01085,R1Q06,Increased
+P01085,R1Q07,Higher crop yield
+P01085,R1Q09,No
+P01085,R1Q10,Very Easy
+P01085,R1Q11,No
+P01085,R1Q12,Difficult
+P01085,R1Q13,"Yes, if there is a water related disease"
+P01069,R1Q01,IDP or an internally displaced person
+P01069,R1Q02,No
+P01069,R1Q03,No
+P01069,R1Q04,Other
+P01069,R1Q05,Food
+P01069,R1Q06,Decreased
+P01069,R1Q08,Rising costs
+P01069,R1Q09,No
+P01069,R1Q10,Difficult
+P01069,R1Q11,Yes
+P01069,R1Q12,Easy
+P01069,R1Q13,"Yes, if there is a water related disease"
+P01048,R1Q01,Resident of this area
+P01048,R1Q03,No
+P01048,R1Q04,Agriculture or Farming
+P01048,R1Q05,Education
+P01048,R1Q06,Decreased
+P01048,R1Q08,Rising costs
+P01048,R1Q09,No
+P01048,R1Q10,Difficult
+P01048,R1Q11,No
+P01048,R1Q12,Difficult
+P01048,R1Q13,Yes there is a disease but not related to water
+P01042,R1Q01,IDP or an internally displaced person
+P01042,R1Q02,Yes
+P01042,R1Q03,Yes
+P01042,R1Q04,Trading or vending
+P01042,R1Q05,Food
+P01042,R1Q06,Decreased
+P01042,R1Q08,Rising costs
+P01042,R1Q09,No
+P01042,R1Q10,Very Difficult
+P01042,R1Q11,Yes
+P01042,R1Q12,Very Difficult
+P01042,R1Q13,Yes there is a disease but not related to water
+P01034,R1Q01,Resident of this area
+P01034,R1Q03,No
+P01034,R1Q04,Agriculture or Farming
+P01034,R1Q05,Repaying Debt
+P01034,R1Q06,Increased
+P01034,R1Q07,Higher crop yield
+P01034,R1Q09,Yes
+P01034,R1Q10,Easy
+P01034,R1Q11,Yes
+P01034,R1Q12,Easy
+P01034,R1Q13,"No, there were not diseases this month"
+P01032,R1Q01,Resident of this area
+P01032,R1Q03,Yes
+P01032,R1Q04,Agriculture or Farming
+P01032,R1Q05,Food
+P01032,R1Q06,Decreased
+P01032,R1Q08,Poor rains or water
+P01032,R1Q09,No
+P01032,R1Q10,Difficult
+P01032,R1Q11,Yes
+P01032,R1Q12,Difficult
+P01032,R1Q13,Yes there is a disease but not related to water
+P01017,R1Q01,Resident of this area
+P01017,R1Q03,Yes
+P01017,R1Q04,Agriculture or Farming
+P01017,R1Q05,Food
+P01017,R1Q06,Stayed the same
+P01017,R1Q07,Other
+P01017,R1Q09,Yes
+P01017,R1Q10,Very Difficult
+P01017,R1Q11,Yes
+P01017,R1Q12,Difficult
+P01017,R1Q13,Yes there is a disease but not related to water
+P00893,R1Q01,Resident of this area
+P00893,R1Q03,Yes
+P00893,R1Q04,Trading or vending
+P00893,R1Q05,Food
+P00893,R1Q06,Stayed the same
+P00893,R1Q07,New job or loan
+P00893,R1Q09,Yes
+P00893,R1Q10,Difficult
+P00893,R1Q11,Yes
+P00893,R1Q12,Easy
+P00893,R1Q13,"No, there were not diseases this month"
+P00804,R1Q01,Resident of this area
+P00804,R1Q03,Yes
+P00804,R1Q04,Formal or informal employment
+P00804,R1Q05,Food
+P00804,R1Q06,Increased
+P00804,R1Q07,Higher crop yield
+P00804,R1Q09,No
+P00804,R1Q10,Easy
+P00804,R1Q11,Yes
+P00804,R1Q12,Easy
+P00804,R1Q13,"No, there were not diseases this month"
+P00732,R1Q01,Refugee
+P00732,R1Q02,No
+P00732,R1Q03,No
+P00732,R1Q04,Trading or vending
+P00732,R1Q05,Education
+P00732,R1Q06,Decreased
+P00732,R1Q08,Rising costs
+P00732,R1Q09,Yes
+P00732,R1Q10,Difficult
+P00732,R1Q11,Yes
+P00732,R1Q12,Very Easy
+P00732,R1Q13,"No, there were not diseases this month"
+P00714,R1Q01,IDP or an internally displaced person
+P00714,R1Q02,Yes
+P00714,R1Q03,No
+P00714,R1Q04,Agriculture or Farming
+P00714,R1Q05,Food
+P00714,R1Q06,Stayed the same
+P00714,R1Q07,New job or loan
+P00714,R1Q09,No
+P00714,R1Q10,Difficult
+P00714,R1Q11,No
+P00714,R1Q12,Difficult
+P00714,R1Q13,"No, there were not diseases this month"
+P00604,R1Q01,Resident of this area
+P00604,R1Q03,No
+P00604,R1Q04,Other
+P00604,R1Q05,Food
+P00604,R1Q06,Decreased
+P00604,R1Q08,Other
+P00604,R1Q09,Yes
+P00604,R1Q10,Easy
+P00604,R1Q11,Yes
+P00604,R1Q12,Easy
+P00604,R1Q13,"Yes, if there is a water related disease"
+P00576,R1Q01,Returnee
+P00576,R1Q03,No
+P00576,R1Q04,Formal or informal employment
+P00576,R1Q05,Repaying Debt
+P00576,R1Q06,Decreased
+P00576,R1Q08,Rising costs
+P00576,R1Q09,No
+P00576,R1Q10,Difficult
+P00576,R1Q11,No
+P00576,R1Q12,Easy
+P00576,R1Q13,"No, there were not diseases this month"
+P00572,R1Q01,Resident of this area
+P00572,R1Q03,No
+P00572,R1Q04,Other
+P00572,R1Q05,Repaying Debt
+P00572,R1Q06,Decreased
+P00572,R1Q08,Insecurity or low demand
+P00572,R1Q09,Yes
+P00572,R1Q10,Difficult
+P00572,R1Q11,Yes
+P00572,R1Q12,Difficult
+P00572,R1Q13,"Yes, if there is a water related disease"
+P00568,R1Q01,Refugee
+P00568,R1Q02,Yes
+P00568,R1Q03,Yes
+P00568,R1Q04,Formal or informal employment
+P00568,R1Q05,Food
+P00568,R1Q06,Decreased
+P00568,R1Q08,Rising costs
+P00568,R1Q09,Yes
+P00568,R1Q10,Very Easy
+P00568,R1Q11,Yes
+P00568,R1Q12,Very Easy
+P00568,R1Q13,Yes there is a disease but not related to water
+P00560,R1Q01,IDP or an internally displaced person
+P00560,R1Q02,Yes
+P00560,R1Q03,No
+P00560,R1Q04,Trading or vending
+P00560,R1Q05,Repaying Debt
+P00560,R1Q06,Decreased
+P00560,R1Q08,Rising costs
+P00560,R1Q09,No
+P00560,R1Q10,Very Easy
+P00560,R1Q11,Yes
+P00560,R1Q12,Easy
+P00560,R1Q13,"No, there were not diseases this month"
+P00529,R1Q01,Resident of this area
+P00529,R1Q03,No
+P00529,R1Q04,Agriculture or Farming
+P00529,R1Q05,Food
+P00529,R1Q06,Decreased
+P00529,R1Q08,Rising costs
+P00529,R1Q09,No
+P00529,R1Q10,Very Difficult
+P00529,R1Q11,Yes
+P00529,R1Q12,Difficult
+P00529,R1Q13,Yes there is a disease but not related to water
+P00495,R1Q01,Resident of this area
+P00495,R1Q03,Yes
+P00495,R1Q04,Trading or vending
+P00495,R1Q05,Repaying Debt
+P00495,R1Q06,Increased
+P00495,R1Q07,Higher crop yield
+P00495,R1Q09,No
+P00495,R1Q10,Easy
+P00495,R1Q11,Yes
+P00495,R1Q12,Very Easy
+P00495,R1Q13,"No, there were not diseases this month"
+P00493,R1Q01,Refugee
+P00493,R1Q02,No
+P00493,R1Q03,No
+P00493,R1Q04,Other
+P00493,R1Q05,Savings
+P00493,R1Q06,Decreased
+P00493,R1Q08,Rising costs
+P00493,R1Q09,Yes
+P00493,R1Q10,Easy
+P00493,R1Q11,No
+P00493,R1Q12,Very Difficult
+P00493,R1Q13,"No, there were not diseases this month"
+P00486,R1Q01,Resident of this area
+P00486,R1Q03,No
+P00486,R1Q04,Agriculture or Farming
+P00486,R1Q05,Repaying Debt
+P00486,R1Q06,Decreased
+P00486,R1Q08,Other
+P00486,R1Q09,No
+P00486,R1Q10,Difficult
+P00486,R1Q11,No
+P00486,R1Q12,Difficult
+P00486,R1Q13,"No, there were not diseases this month"
+P00484,R1Q01,Resident of this area
+P00484,R1Q03,No
+P00484,R1Q04,Other
+P00484,R1Q05,Repaying Debt
+P00484,R1Q06,Decreased
+P00484,R1Q08,Rising costs
+P00484,R1Q09,No
+P00484,R1Q10,Very Easy
+P00484,R1Q11,Yes
+P00484,R1Q12,Difficult
+P00484,R1Q13,"No, there were not diseases this month"
+P00476,R1Q01,Resident of this area
+P00476,R1Q03,No
+P00476,R1Q04,Other
+P00476,R1Q05,Repaying Debt
+P00476,R1Q06,Stayed the same
+P00476,R1Q07,Other
+P00476,R1Q09,No
+P00476,R1Q10,Difficult
+P00476,R1Q11,Yes
+P00476,R1Q12,Easy
+P00476,R1Q13,Yes there is a disease but not related to water
+P00474,R1Q01,Resident of this area
+P00474,R1Q03,No
+P00474,R1Q04,Agriculture or Farming
+P00474,R1Q05,Food
+P00474,R1Q06,Increased
+P00474,R1Q07,Other
+P00474,R1Q09,No
+P00474,R1Q10,Difficult
+P00474,R1Q11,Yes
+P00474,R1Q12,Easy
+P00474,R1Q13,"No, there were not diseases this month"
+P00468,R1Q01,Resident of this area
+P00468,R1Q03,No
+P00468,R1Q04,Other
+P00468,R1Q05,Repaying Debt
+P00468,R1Q06,Stayed the same
+P00468,R1Q07,Other
+P00468,R1Q09,No
+P00468,R1Q10,Very Easy
+P00468,R1Q11,Yes
+P00468,R1Q12,Difficult
+P00468,R1Q13,"No, there were not diseases this month"
+P00466,R1Q01,Resident of this area
+P00466,R1Q03,No
+P00466,R1Q04,Other
+P00466,R1Q05,Repaying Debt
+P00466,R1Q06,Decreased
+P00466,R1Q08,Poor rains or water
+P00466,R1Q09,No
+P00466,R1Q10,Easy
+P00466,R1Q11,Yes
+P00466,R1Q12,Easy
+P00466,R1Q13,Yes there is a disease but not related to water
+P00460,R1Q01,Resident of this area
+P00460,R1Q03,No
+P00460,R1Q04,Trading or vending
+P00460,R1Q05,Food
+P00460,R1Q06,Decreased
+P00460,R1Q08,Poor rains or water
+P00460,R1Q09,Yes
+P00460,R1Q10,Very Easy
+P00460,R1Q11,No
+P00460,R1Q12,Very Easy
+P00460,R1Q13,"Yes, if there is a water related disease"
+P00447,R1Q01,IDP or an internally displaced person
+P00447,R1Q02,Yes
+P00447,R1Q03,No
+P00447,R1Q04,Formal or informal employment
+P00447,R1Q05,Repaying Debt
+P00447,R1Q06,Decreased
+P00447,R1Q08,Rising costs
+P00447,R1Q09,No
+P00447,R1Q10,Very Easy
+P00447,R1Q11,Yes
+P00447,R1Q12,Difficult
+P00447,R1Q13,"No, there were not diseases this month"
+P00441,R1Q01,Resident of this area
+P00441,R1Q03,No
+P00441,R1Q04,Other
+P00441,R1Q05,Savings
+P00441,R1Q06,Decreased
+P00441,R1Q08,Other
+P00441,R1Q09,No
+P00441,R1Q10,Difficult
+P00441,R1Q11,Yes
+P00441,R1Q12,Easy
+P00441,R1Q13,Yes there is a disease but not related to water
+P00426,R1Q01,Refugee
+P00426,R1Q02,Yes
+P00426,R1Q03,No
+P00426,R1Q04,Trading or vending
+P00426,R1Q05,Savings
+P00426,R1Q06,Decreased
+P00426,R1Q08,Rising costs
+P00426,R1Q09,No
+P00426,R1Q10,Very Difficult
+P00426,R1Q11,Yes
+P00426,R1Q12,Difficult
+P00426,R1Q13,"No, there were not diseases this month"
+P00425,R1Q01,Resident of this area
+P00425,R1Q03,No
+P00425,R1Q04,Other
+P00425,R1Q05,Repaying Debt
+P00425,R1Q06,Increased
+P00425,R1Q07,More customers
+P00425,R1Q09,Yes
+P00425,R1Q10,Difficult
+P00425,R1Q11,No
+P00425,R1Q12,Easy
+P00425,R1Q13,"Yes, if there is a water related disease"
+P00415,R1Q01,Resident of this area
+P00415,R1Q03,No
+P00415,R1Q04,Other
+P00415,R1Q05,Food
+P00415,R1Q06,Stayed the same
+P00415,R1Q07,Higher crop yield
+P00415,R1Q09,No
+P00415,R1Q10,Difficult
+P00415,R1Q11,No
+P00415,R1Q12,Very Difficult
+P00415,R1Q13,"No, there were not diseases this month"
+P00414,R1Q01,Resident of this area
+P00414,R1Q03,Yes
+P00414,R1Q04,Agriculture or Farming
+P00414,R1Q05,Food
+P00414,R1Q06,Stayed the same
+P00414,R1Q07,Other
+P00414,R1Q09,Yes
+P00414,R1Q10,Easy
+P00414,R1Q11,Yes
+P00414,R1Q12,Very Easy
+P00414,R1Q13,"No, there were not diseases this month"
+P00408,R1Q01,Resident of this area
+P00408,R1Q03,No
+P00408,R1Q04,Agriculture or Farming
+P00408,R1Q05,Food
+P00408,R1Q06,Decreased
+P00408,R1Q08,Poor rains or water
+P00408,R1Q09,No
+P00408,R1Q10,Very Easy
+P00408,R1Q11,No
+P00408,R1Q12,Difficult
+P00408,R1Q13,"Yes, if there is a water related disease"
+P00407,R1Q01,Resident of this area
+P00407,R1Q03,No
+P00407,R1Q04,Formal or informal employment
+P00407,R1Q05,Food
+P00407,R1Q06,Decreased
+P00407,R1Q08,Rising costs
+P00407,R1Q09,No
+P00407,R1Q10,Very Easy
+P00407,R1Q11,Yes
+P00407,R1Q12,Difficult
+P00407,R1Q13,"Yes, if there is a water related disease"
+P00399,R1Q01,Resident of this area
+P00399,R1Q03,Yes
+P00399,R1Q04,Agriculture or Farming
+P00399,R1Q05,Food
+P00399,R1Q06,Decreased
+P00399,R1Q08,Poor rains or water
+P00399,R1Q09,Yes
+P00399,R1Q10,Difficult
+P00399,R1Q11,Yes
+P00399,R1Q12,Easy
+P00399,R1Q13,"No, there were not diseases this month"
+P00396,R1Q01,Resident of this area
+P00396,R1Q03,No
+P00396,R1Q04,Agriculture or Farming
+P00396,R1Q05,Savings
+P00396,R1Q06,Decreased
+P00396,R1Q08,Poor rains or water
+P00396,R1Q09,Yes
+P00396,R1Q10,Very Easy
+P00396,R1Q11,Yes
+P00396,R1Q12,Very Difficult
+P00396,R1Q13,"No, there were not diseases this month"
+P00384,R1Q01,Resident of this area
+P00384,R1Q03,No
+P00384,R1Q04,Agriculture or Farming
+P00384,R1Q05,Savings
+P00384,R1Q06,Increased
+P00384,R1Q07,Higher crop yield
+P00384,R1Q09,No
+P00384,R1Q10,Difficult
+P00384,R1Q11,No
+P00384,R1Q12,Difficult
+P00384,R1Q13,"Yes, if there is a water related disease"
+P00375,R1Q01,Resident of this area
+P00375,R1Q03,Yes
+P00375,R1Q04,Agriculture or Farming
+P00375,R1Q05,Food
+P00375,R1Q06,Stayed the same
+P00375,R1Q07,Higher crop yield
+P00375,R1Q09,Yes
+P00375,R1Q10,Difficult
+P00375,R1Q11,No
+P00375,R1Q12,Very Difficult
+P00375,R1Q13,"Yes, if there is a water related disease"
+P00374,R1Q01,Resident of this area
+P00374,R1Q03,No
+P00374,R1Q04,Agriculture or Farming
+P00374,R1Q05,Repaying Debt
+P00374,R1Q06,Stayed the same
+P00374,R1Q07,New job or loan
+P00374,R1Q09,No
+P00374,R1Q10,Very Difficult
+P00374,R1Q11,Yes
+P00374,R1Q12,Easy
+P00374,R1Q13,Yes there is a disease but not related to water
+P00369,R1Q01,Resident of this area
+P00369,R1Q03,No
+P00369,R1Q04,Agriculture or Farming
+P00369,R1Q05,Food
+P00369,R1Q06,Decreased
+P00369,R1Q08,Other
+P00369,R1Q09,No
+P00369,R1Q10,Very Difficult
+P00369,R1Q11,No
+P00369,R1Q12,Difficult
+P00369,R1Q13,"No, there were not diseases this month"
+P00350,R1Q01,Resident of this area
+P00350,R1Q03,Yes
+P00350,R1Q04,Trading or vending
+P00350,R1Q05,Savings
+P00350,R1Q06,Increased
+P00350,R1Q07,More customers
+P00350,R1Q09,No
+P00350,R1Q10,Easy
+P00350,R1Q11,Yes
+P00350,R1Q12,Very Easy
+P00350,R1Q13,Yes there is a disease but not related to water
+P00348,R1Q01,Resident of this area
+P00348,R1Q03,No
+P00348,R1Q04,Agriculture or Farming
+P00348,R1Q05,Repaying Debt
+P00348,R1Q06,Decreased
+P00348,R1Q08,Poor rains or water
+P00348,R1Q09,No
+P00348,R1Q10,Difficult
+P00348,R1Q11,No
+P00348,R1Q12,Difficult
+P00348,R1Q13,"No, there were not diseases this month"
+P00344,R1Q01,Resident of this area
+P00344,R1Q03,No
+P00344,R1Q04,Formal or informal employment
+P00344,R1Q05,Repaying Debt
+P00344,R1Q06,Decreased
+P00344,R1Q08,Rising costs
+P00344,R1Q09,No
+P00344,R1Q10,Very Difficult
+P00344,R1Q11,No
+P00344,R1Q12,Difficult
+P00344,R1Q13,Yes there is a disease but not related to water
+P00331,R1Q01,Resident of this area
+P00331,R1Q03,No
+P00331,R1Q04,Formal or informal employment
+P00331,R1Q05,Repaying Debt
+P00331,R1Q06,Stayed the same
+P00331,R1Q07,Other
+P00331,R1Q09,No
+P00331,R1Q10,Easy
+P00331,R1Q11,Yes
+P00331,R1Q12,Easy
+P00331,R1Q13,"No, there were not diseases this month"
+P00309,R1Q01,Resident of this area
+P00309,R1Q03,No
+P00309,R1Q04,Agriculture or Farming
+P00309,R1Q05,Repaying Debt
+P00309,R1Q06,Decreased
+P00309,R1Q08,Rising costs
+P00309,R1Q09,No
+P00309,R1Q10,Difficult
+P00309,R1Q11,No
+P00309,R1Q12,Difficult
+P00309,R1Q13,Yes there is a disease but not related to water
+P00306,R1Q01,Resident of this area
+P00306,R1Q03,No
+P00306,R1Q04,Agriculture or Farming
+P00306,R1Q05,Savings
+P00306,R1Q06,Stayed the same
+P00306,R1Q07,Higher crop yield
+P00306,R1Q09,No
+P00306,R1Q10,Difficult
+P00306,R1Q11,No
+P00306,R1Q12,Difficult
+P00306,R1Q13,"No, there were not diseases this month"
+P00275,R1Q01,Resident of this area
+P00275,R1Q03,No
+P00275,R1Q04,Agriculture or Farming
+P00275,R1Q05,Repaying Debt
+P00275,R1Q06,Decreased
+P00275,R1Q08,Rising costs
+P00275,R1Q09,No
+P00275,R1Q10,Difficult
+P00275,R1Q11,Yes
+P00275,R1Q12,Easy
+P00275,R1Q13,"Yes, if there is a water related disease"
+P00260,R1Q01,Resident of this area
+P00260,R1Q03,No
+P00260,R1Q04,Agriculture or Farming
+P00260,R1Q05,Repaying Debt
+P00260,R1Q06,Decreased
+P00260,R1Q08,Poor rains or water
+P00260,R1Q09,No
+P00260,R1Q10,Difficult
+P00260,R1Q11,No
+P00260,R1Q12,Difficult
+P00260,R1Q13,"Yes, if there is a water related disease"
+P00238,R1Q01,Resident of this area
+P00238,R1Q03,No
+P00238,R1Q04,Agriculture or Farming
+P00238,R1Q05,Food
+P00238,R1Q06,Decreased
+P00238,R1Q08,Rising costs
+P00238,R1Q09,No
+P00238,R1Q10,Very Difficult
+P00238,R1Q11,Yes
+P00238,R1Q12,Difficult
+P00238,R1Q13,"Yes, if there is a water related disease"
+P00224,R1Q01,Resident of this area
+P00224,R1Q03,No
+P00224,R1Q04,Agriculture or Farming
+P00224,R1Q05,Repaying Debt
+P00224,R1Q06,Decreased
+P00224,R1Q08,Poor rains or water
+P00224,R1Q09,No
+P00224,R1Q10,Difficult
+P00224,R1Q11,Yes
+P00224,R1Q12,Easy
+P00224,R1Q13,"No, there were not diseases this month"
+P00222,R1Q01,Resident of this area
+P00222,R1Q03,No
+P00222,R1Q04,Agriculture or Farming
+P00222,R1Q05,Food
+P00222,R1Q06,Decreased
+P00222,R1Q08,Poor rains or water
+P00222,R1Q09,No
+P00222,R1Q10,Difficult
+P00222,R1Q11,Yes
+P00222,R1Q12,Difficult
+P00222,R1Q13,"Yes, if there is a water related disease"
+P00204,R1Q01,Resident of this area
+P00204,R1Q03,No
+P00204,R1Q04,Trading or vending
+P00204,R1Q05,Food
+P00204,R1Q06,Stayed the same
+P00204,R1Q07,Other
+P00204,R1Q09,No
+P00204,R1Q10,Difficult
+P00204,R1Q11,Yes
+P00204,R1Q12,Difficult
+P00204,R1Q13,"Yes, if there is a water related disease"
+P00203,R1Q01,Resident of this area
+P00203,R1Q03,No
+P00203,R1Q04,Other
+P00203,R1Q05,Repaying Debt
+P00203,R1Q06,Decreased
+P00203,R1Q08,Poor rains or water
+P00203,R1Q09,No
+P00203,R1Q10,Very Difficult
+P00203,R1Q11,No
+P00203,R1Q12,Difficult
+P00203,R1Q13,"No, there were not diseases this month"
+P00190,R1Q01,Resident of this area
+P00190,R1Q03,No
+P00190,R1Q04,Trading or vending
+P00190,R1Q05,Repaying Debt
+P00190,R1Q06,Decreased
+P00190,R1Q08,Other
+P00190,R1Q09,No
+P00190,R1Q10,Very Difficult
+P00190,R1Q11,Yes
+P00190,R1Q12,Difficult
+P00190,R1Q13,"Yes, if there is a water related disease"
+P00158,R1Q01,Refugee
+P00158,R1Q02,Yes
+P00158,R1Q03,No
+P00158,R1Q04,Other
+P00158,R1Q05,Repaying Debt
+P00158,R1Q06,Decreased
+P00158,R1Q08,Rising costs
+P00158,R1Q09,No
+P00158,R1Q10,Very Easy
+P00158,R1Q11,No
+P00158,R1Q12,Easy
+P00158,R1Q13,"No, there were not diseases this month"
+P00104,R1Q01,Resident of this area
+P00104,R1Q03,No
+P00104,R1Q04,Agriculture or Farming
+P00104,R1Q05,Food
+P00104,R1Q06,Stayed the same
+P00104,R1Q07,More customers
+P00104,R1Q09,Yes
+P00104,R1Q10,Easy
+P00104,R1Q11,Yes
+P00104,R1Q12,Very Easy
+P00104,R1Q13,Yes there is a disease but not related to water
+P00082,R1Q01,Resident of this area
+P00082,R1Q03,Yes
+P00082,R1Q04,Agriculture or Farming
+P00082,R1Q05,Repaying Debt
+P00082,R1Q06,Stayed the same
+P00082,R1Q07,Higher crop yield
+P00082,R1Q09,No
+P00082,R1Q10,Very Difficult
+P00082,R1Q11,Yes
+P00082,R1Q12,Very Easy
+P00082,R1Q13,"No, there were not diseases this month"
+P00074,R1Q01,IDP or an internally displaced person
+P00074,R1Q02,Yes
+P00074,R1Q03,No
+P00074,R1Q04,Agriculture or Farming
+P00074,R1Q05,Food
+P00074,R1Q06,Decreased
+P00074,R1Q08,Rising costs
+P00074,R1Q09,No
+P00074,R1Q10,Difficult
+P00074,R1Q11,Yes
+P00074,R1Q12,Difficult
+P00074,R1Q13,"Yes, if there is a water related disease"
+P00064,R1Q01,Resident of this area
+P00064,R1Q03,No
+P00064,R1Q04,Agriculture or Farming
+P00064,R1Q05,Food
+P00064,R1Q06,Decreased
+P00064,R1Q08,Rising costs
+P00064,R1Q09,No
+P00064,R1Q10,Easy
+P00064,R1Q11,Yes
+P00064,R1Q12,Very Easy
+P00064,R1Q13,"No, there were not diseases this month"
+P00044,R1Q01,Resident of this area
+P00044,R1Q03,Yes
+P00044,R1Q04,Agriculture or Farming
+P00044,R1Q05,Food
+P00044,R1Q06,Decreased
+P00044,R1Q08,Rising costs
+P00044,R1Q09,No
+P00044,R1Q10,Difficult
+P00044,R1Q11,Yes
+P00044,R1Q12,Difficult
+P00044,R1Q13,"No, there were not diseases this month"
+P00037,R1Q01,Resident of this area
+P00037,R1Q03,Yes
+P00037,R1Q04,Agriculture or Farming
+P00037,R1Q05,Food
+P00037,R1Q06,Increased
+P00037,R1Q07,Higher crop yield
+P00037,R1Q09,Yes
+P00037,R1Q10,Easy
+P00037,R1Q11,Yes
+P00037,R1Q12,Very Easy
+P00037,R1Q13,"No, there were not diseases this month"
+P00023,R1Q01,Resident of this area
+P00023,R1Q03,Yes
+P00023,R1Q04,Agriculture or Farming
+P00023,R1Q05,Food
+P00023,R1Q06,Stayed the same
+P00023,R1Q07,Higher crop yield
+P00023,R1Q09,Yes
+P00023,R1Q10,Easy
+P00023,R1Q11,No
+P00023,R1Q12,Very Difficult
+P00023,R1Q13,"No, there were not diseases this month"
+P00012,R1Q01,Resident of this area
+P00012,R1Q03,Yes
+P00012,R1Q04,Agriculture or Farming
+P00012,R1Q05,Food
+P00012,R1Q06,Decreased
+P00012,R1Q08,Poor rains or water
+P00012,R1Q09,No
+P00012,R1Q10,Easy
+P00012,R1Q11,Yes
+P00012,R1Q12,Easy
+P00012,R1Q13,"No, there were not diseases this month"
+P00003,R1Q01,Resident of this area
+P00003,R1Q03,No
+P00003,R1Q04,Formal or informal employment
+P00003,R1Q05,Food
+P00003,R1Q06,Stayed the same
+P00003,R1Q07,Other
+P00003,R1Q09,Yes
+P00003,R1Q10,Easy
+P00003,R1Q11,No
+P00003,R1Q12,Very Difficult
+P00003,R1Q13,"No, there were not diseases this month"
+P00001,R1Q01,Resident of this area
+P00001,R1Q03,No
+P00001,R1Q04,Agriculture or Farming
+P00001,R1Q05,Repaying Debt
+P00001,R1Q06,Decreased
+P00001,R1Q08,Rising costs
+P00001,R1Q09,No
+P00001,R1Q10,Very Easy
+P00001,R1Q11,Yes
+P00001,R1Q12,Easy
+P00001,R1Q13,"No, there were not diseases this month"

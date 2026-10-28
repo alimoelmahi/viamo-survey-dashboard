@@ -1,0 +1,15 @@
+state,gender,master_phone_keys,called,reached,completed,contact_rate,completion_rate_called
+Al Jazeera,Male,22,22,10,2,45.45,9.09
+Gedaref,Female,759,758,97,14,12.8,1.85
+Gedaref,Male,857,857,83,6,9.68,0.7
+Gedaref,Unknown,5,5,1,0,,
+Kassala,Female,263,260,43,8,16.54,3.08
+Kassala,Male,150,149,35,7,23.49,4.7
+Red Sea,Female,31,29,1,1,3.45,3.45
+Red Sea,Male,12,12,2,1,16.67,8.33
+River Nile,Female,138,138,79,14,57.25,10.14
+River Nile,Male,656,654,396,52,60.55,7.95
+Sennar,Female,8,8,1,1,,
+Sennar,Male,13,13,3,1,23.08,7.69
+White Nile,Female,8,8,2,0,,
+White Nile,Male,78,78,47,6,60.26,7.69

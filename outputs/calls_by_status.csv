@@ -1,0 +1,5 @@
+status,attempts,answered,phones
+Failed (No Answer),3265,0,2236
+Failed (error),41,0,41
+Finished (complete),222,222,220
+Finished (incomplete),590,590,585

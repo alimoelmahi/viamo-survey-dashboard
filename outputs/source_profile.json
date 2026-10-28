@@ -1,0 +1,1036 @@
+{
+  "master": {
+    "rows": 3000,
+    "columns": [
+      "No.",
+      "State",
+      "State.1",
+      "Locality",
+      "Locality.1",
+      "Community",
+      "Community.1",
+      "Name",
+      "Gender",
+      "Gender.1",
+      "Age",
+      "Type of Support",
+      "Type of Support.1",
+      "JointProgram",
+      "Cross-Pillar",
+      "SupportProject",
+      "SupportProject.1",
+      "YearofSupport",
+      "PhoneNumber",
+      "check_dup"
+    ],
+    "field_profile": {
+      "No.": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3000
+      },
+      "State": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 7
+      },
+      "State.1": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 7
+      },
+      "Locality": {
+        "dtype": "object",
+        "missing": 16,
+        "distinct_nonmissing": 23
+      },
+      "Locality.1": {
+        "dtype": "object",
+        "missing": 11,
+        "distinct_nonmissing": 23
+      },
+      "Community": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 114
+      },
+      "Community.1": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 114
+      },
+      "Name": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2994
+      },
+      "Gender": {
+        "dtype": "object",
+        "missing": 5,
+        "distinct_nonmissing": 2
+      },
+      "Gender.1": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3
+      },
+      "Age": {
+        "dtype": "object",
+        "missing": 238,
+        "distinct_nonmissing": 72
+      },
+      "Type of Support": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 8
+      },
+      "Type of Support.1": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 8
+      },
+      "JointProgram": {
+        "dtype": "object",
+        "missing": 5,
+        "distinct_nonmissing": 3
+      },
+      "Cross-Pillar": {
+        "dtype": "object",
+        "missing": 27,
+        "distinct_nonmissing": 3
+      },
+      "SupportProject": {
+        "dtype": "object",
+        "missing": 87,
+        "distinct_nonmissing": 10
+      },
+      "SupportProject.1": {
+        "dtype": "object",
+        "missing": 82,
+        "distinct_nonmissing": 11
+      },
+      "YearofSupport": {
+        "dtype": "object",
+        "missing": 5,
+        "distinct_nonmissing": 10
+      },
+      "PhoneNumber": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3000
+      },
+      "check_dup": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      }
+    },
+    "phone_quality": {
+      "normalized": 2954,
+      "invalid_length_or_country": 33,
+      "unexpected_sudan_prefix": 13
+    },
+    "unique_valid_phones": 2954,
+    "duplicate_phone_rows": 0,
+    "exact_duplicate_rows": 0,
+    "categorical": {
+      "State": {
+        "Gedaref": 1621,
+        "River Nile": 794,
+        "Kassala": 413,
+        "White Nile": 86,
+        "Red Sea": 43,
+        "Al Jazeera": 22,
+        "Sennar": 21
+      },
+      "State.1": {
+        "STATE_005": 1621,
+        "STATE_008": 794,
+        "STATE_006": 413,
+        "STATE_010": 86,
+        "STATE_007": 43,
+        "STATE_004": 22,
+        "STATE_009": 21
+      },
+      "Gender": {
+        "Male": 1788,
+        "Female": 1207,
+        "nan": 5
+      },
+      "Gender.1": {
+        "GEN_3.133859511147554": 1788,
+        "GEN_1.242365192107026": 1207,
+        "GEN_5.253370332742474": 5
+      }
+    }
+  },
+  "calls": {
+    "rows": 4118,
+    "columns": [
+      "Delivery ID",
+      "Subscriber Phone",
+      "Subscriber ID",
+      "Name",
+      "Start Date",
+      "water_usage",
+      "water_quality",
+      "health_facility",
+      "health_access",
+      "disease",
+      "completed_survey",
+      "started_survey",
+      "R1Q01",
+      "R1Q02",
+      "R1Q03",
+      "R1Q04",
+      "R1Q05",
+      "R1Q06",
+      "R1Q07",
+      "R1Q08",
+      "R1Q09",
+      "R1Q10",
+      "R1Q11",
+      "R1Q12",
+      "R1Q13",
+      "r1_started_survey",
+      "r1_intro",
+      "r1_completed_survey",
+      "State",
+      "Locality",
+      "Community",
+      "Gender",
+      "Age",
+      "Message ID",
+      "Message Title",
+      "Survey ID",
+      "Survey Title",
+      "Poll ID",
+      "Tree ID",
+      "Tree Title",
+      "Scheduled Date",
+      "Scheduled Time",
+      "Received Date ",
+      "Received Time",
+      "Content Type",
+      "Message Percentage Listened - Voice",
+      "Call Status",
+      "Hangup Cause",
+      "Call Duration [s]",
+      "Survey Questions - Answered",
+      "Survey Questions - Total",
+      "Language",
+      "Call Attempts",
+      "Message Repeated By Subscriber # Times",
+      "Is Call Back for Past Call",
+      "Airtime Topup Amount",
+      "Outgoing Call Id",
+      "Incoming Call Id"
+    ],
+    "field_profile": {
+      "Delivery ID": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4118
+      },
+      "Subscriber Phone": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3002
+      },
+      "Subscriber ID": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3002
+      },
+      "Name": {
+        "dtype": "object",
+        "missing": 4109,
+        "distinct_nonmissing": 4
+      },
+      "Start Date": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "water_usage": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "water_quality": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "health_facility": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "health_access": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "disease": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "completed_survey": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "started_survey": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "R1Q01": {
+        "dtype": "object",
+        "missing": 3882,
+        "distinct_nonmissing": 4
+      },
+      "R1Q02": {
+        "dtype": "object",
+        "missing": 4082,
+        "distinct_nonmissing": 2
+      },
+      "R1Q03": {
+        "dtype": "object",
+        "missing": 3914,
+        "distinct_nonmissing": 2
+      },
+      "R1Q04": {
+        "dtype": "object",
+        "missing": 3925,
+        "distinct_nonmissing": 4
+      },
+      "R1Q05": {
+        "dtype": "object",
+        "missing": 3938,
+        "distinct_nonmissing": 4
+      },
+      "R1Q06": {
+        "dtype": "object",
+        "missing": 3948,
+        "distinct_nonmissing": 3
+      },
+      "R1Q07": {
+        "dtype": "object",
+        "missing": 4050,
+        "distinct_nonmissing": 4
+      },
+      "R1Q08": {
+        "dtype": "object",
+        "missing": 4021,
+        "distinct_nonmissing": 4
+      },
+      "R1Q09": {
+        "dtype": "object",
+        "missing": 3963,
+        "distinct_nonmissing": 2
+      },
+      "R1Q10": {
+        "dtype": "object",
+        "missing": 3968,
+        "distinct_nonmissing": 4
+      },
+      "R1Q11": {
+        "dtype": "object",
+        "missing": 3971,
+        "distinct_nonmissing": 2
+      },
+      "R1Q12": {
+        "dtype": "object",
+        "missing": 3976,
+        "distinct_nonmissing": 4
+      },
+      "R1Q13": {
+        "dtype": "object",
+        "missing": 3977,
+        "distinct_nonmissing": 3
+      },
+      "r1_started_survey": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "r1_intro": {
+        "dtype": "object",
+        "missing": 3499,
+        "distinct_nonmissing": 1
+      },
+      "r1_completed_survey": {
+        "dtype": "object",
+        "missing": 3977,
+        "distinct_nonmissing": 1
+      },
+      "State": {
+        "dtype": "object",
+        "missing": 9,
+        "distinct_nonmissing": 7
+      },
+      "Locality": {
+        "dtype": "object",
+        "missing": 20,
+        "distinct_nonmissing": 23
+      },
+      "Community": {
+        "dtype": "object",
+        "missing": 9,
+        "distinct_nonmissing": 114
+      },
+      "Gender": {
+        "dtype": "object",
+        "missing": 9,
+        "distinct_nonmissing": 3
+      },
+      "Age": {
+        "dtype": "object",
+        "missing": 566,
+        "distinct_nonmissing": 72
+      },
+      "Message ID": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Message Title": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Survey ID": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Survey Title": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Poll ID": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Tree ID": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Tree Title": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Scheduled Date": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 18
+      },
+      "Scheduled Time": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 24
+      },
+      "Received Date ": {
+        "dtype": "object",
+        "missing": 3293,
+        "distinct_nonmissing": 15
+      },
+      "Received Time": {
+        "dtype": "object",
+        "missing": 3293,
+        "distinct_nonmissing": 636
+      },
+      "Content Type": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "Message Percentage Listened - Voice": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Call Status": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "Hangup Cause": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 15
+      },
+      "Call Duration [s]": {
+        "dtype": "object",
+        "missing": 3293,
+        "distinct_nonmissing": 737
+      },
+      "Survey Questions - Answered": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "Survey Questions - Total": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Language": {
+        "dtype": "object",
+        "missing": 3293,
+        "distinct_nonmissing": 1
+      },
+      "Call Attempts": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 9
+      },
+      "Message Repeated By Subscriber # Times": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "Is Call Back for Past Call": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "Airtime Topup Amount": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      },
+      "Outgoing Call Id": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 49
+      },
+      "Incoming Call Id": {
+        "dtype": "object",
+        "missing": 4118,
+        "distinct_nonmissing": 0
+      }
+    },
+    "phone_quality": {
+      "normalized": 4038,
+      "invalid_length_or_country": 71,
+      "unexpected_sudan_prefix": 9
+    },
+    "unique_valid_phones": 2956,
+    "duplicate_phone_rows": 1991,
+    "exact_duplicate_rows": 0,
+    "categorical": {
+      "r1_started_survey": {
+        "nan": 4118
+      },
+      "r1_intro": {
+        "nan": 3499,
+        "1": 619
+      },
+      "r1_completed_survey": {
+        "nan": 3977,
+        "1": 141
+      },
+      "State": {
+        "STATE_005": 2222,
+        "STATE_008": 934,
+        "STATE_006": 705,
+        "STATE_010": 117,
+        "STATE_007": 58,
+        "STATE_009": 39,
+        "STATE_004": 34,
+        "nan": 9
+      },
+      "Gender": {
+        "GEN_3.133859511147554": 2461,
+        "GEN_1.242365192107026": 1631,
+        "GEN_5.253370332742474": 17,
+        "nan": 9
+      },
+      "Call Status": {
+        "Failed (No Answer)": 3265,
+        "Finished (incomplete)": 590,
+        "Finished (complete)": 222,
+        "Failed (error)": 41
+      },
+      "Hangup Cause": {
+        "NORMAL_UNSPECIFIED": 1584,
+        "CALL_REJECTED": 1116,
+        "NORMAL_CLEARING": 909,
+        "DESTINATION_OUT_OF_ORDER": 342,
+        "NO_ANSWER": 49,
+        "SUBSCRIBER_ABSENT": 44,
+        "CALL_DIED": 28,
+        "BEARERCAPABILITY_NOTAUTH": 11,
+        "UNALLOCATED_NUMBER": 10,
+        "INTERWORKING": 10,
+        "BEARERCAPABILITY_NOTAVAIL": 6,
+        "UNKNOWN": 5,
+        "USER_BUSY": 2,
+        "INVALID_NUMBER_FORMAT": 1,
+        "NETWORK_OUT_OF_ORDER": 1
+      },
+      "Survey Questions - Answered": {
+        "0": 4118
+      },
+      "Survey Questions - Total": {
+        "nan": 4118
+      },
+      "Call Attempts": {
+        "9": 2918,
+        "1": 504,
+        "3": 419,
+        "2": 163,
+        "4": 58,
+        "7": 27,
+        "5": 14,
+        "8": 8,
+        "6": 7
+      }
+    },
+    "schedule_dates": {
+      "2026-09-02 00:00:00": 2,
+      "2026-09-03 00:00:00": 7,
+      "2026-09-08 00:00:00": 334,
+      "2026-09-09 00:00:00": 300,
+      "2026-09-10 00:00:00": 600,
+      "2026-09-11 00:00:00": 279,
+      "2026-09-12 00:00:00": 300,
+      "2026-09-14 00:00:00": 400,
+      "2026-09-15 00:00:00": 175,
+      "2026-09-16 00:00:00": 272,
+      "2026-09-17 00:00:00": 277,
+      "2026-09-18 00:00:00": 300,
+      "2026-09-21 00:00:00": 83,
+      "2026-09-22 00:00:00": 200,
+      "2026-09-23 00:00:00": 300,
+      "2026-09-24 00:00:00": 108,
+      "2026-09-25 00:00:00": 83,
+      "2026-09-29 00:00:00": 98
+    }
+  },
+  "responses": {
+    "rows": 116,
+    "columns": [
+      "Contact ID",
+      "Phone",
+      "Name",
+      "R1Q01",
+      "R1Q02",
+      "R1Q03",
+      "R1Q04",
+      "R1Q05",
+      "R1Q06",
+      "R1Q07",
+      "R1Q08",
+      "R1Q09",
+      "R1Q10",
+      "R1Q11",
+      "R1Q12",
+      "R1Q13",
+      "r1_started_survey",
+      "r1_intro",
+      "r1_completed_survey",
+      "State",
+      "Locality",
+      "Community",
+      "Gender",
+      "Age",
+      "Intro (Message)",
+      "R1Q01 (Multiple Choice Question)",
+      "R1Q02 (Multiple Choice Question)",
+      "R1Q03 (Multiple Choice Question)",
+      "R1Q04 (Multiple Choice Question)",
+      "R1Q05 (Multiple Choice Question)",
+      "R1Q06 (Multiple Choice Question)",
+      "R1Q07 (Multiple Choice Question)",
+      "R1Q08 (Multiple Choice Question)",
+      "R1Q09 (Multiple Choice Question)",
+      "R1Q10 (Multiple Choice Question)",
+      "R1Q11 (Multiple Choice Question)",
+      "R1Q12 (Multiple Choice Question)",
+      "R1Q13 (Multiple Choice Question)",
+      "End (Message)"
+    ],
+    "field_profile": {
+      "Contact ID": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 116
+      },
+      "Phone": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 116
+      },
+      "Name": {
+        "dtype": "object",
+        "missing": 113,
+        "distinct_nonmissing": 3
+      },
+      "R1Q01": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q02": {
+        "dtype": "object",
+        "missing": 96,
+        "distinct_nonmissing": 2
+      },
+      "R1Q03": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      },
+      "R1Q04": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q05": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q06": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3
+      },
+      "R1Q07": {
+        "dtype": "object",
+        "missing": 69,
+        "distinct_nonmissing": 4
+      },
+      "R1Q08": {
+        "dtype": "object",
+        "missing": 46,
+        "distinct_nonmissing": 4
+      },
+      "R1Q09": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      },
+      "R1Q10": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q11": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      },
+      "R1Q12": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q13": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3
+      },
+      "r1_started_survey": {
+        "dtype": "object",
+        "missing": 116,
+        "distinct_nonmissing": 0
+      },
+      "r1_intro": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "r1_completed_survey": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "State": {
+        "dtype": "object",
+        "missing": 3,
+        "distinct_nonmissing": 7
+      },
+      "Locality": {
+        "dtype": "object",
+        "missing": 4,
+        "distinct_nonmissing": 17
+      },
+      "Community": {
+        "dtype": "object",
+        "missing": 3,
+        "distinct_nonmissing": 35
+      },
+      "Gender": {
+        "dtype": "object",
+        "missing": 3,
+        "distinct_nonmissing": 2
+      },
+      "Age": {
+        "dtype": "object",
+        "missing": 12,
+        "distinct_nonmissing": 39
+      },
+      "Intro (Message)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 1
+      },
+      "R1Q01 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q02 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 96,
+        "distinct_nonmissing": 2
+      },
+      "R1Q03 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      },
+      "R1Q04 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q05 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q06 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3
+      },
+      "R1Q07 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 69,
+        "distinct_nonmissing": 4
+      },
+      "R1Q08 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 46,
+        "distinct_nonmissing": 4
+      },
+      "R1Q09 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      },
+      "R1Q10 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q11 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      },
+      "R1Q12 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 4
+      },
+      "R1Q13 (Multiple Choice Question)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 3
+      },
+      "End (Message)": {
+        "dtype": "object",
+        "missing": 0,
+        "distinct_nonmissing": 2
+      }
+    },
+    "phone_quality": {
+      "normalized": 116
+    },
+    "unique_valid_phones": 116,
+    "duplicate_phone_rows": 0,
+    "exact_duplicate_rows": 0,
+    "categorical": {
+      "r1_started_survey": {
+        "nan": 116
+      },
+      "r1_intro": {
+        "1": 116
+      },
+      "r1_completed_survey": {
+        "1": 116
+      },
+      "State": {
+        "STATE_008": 66,
+        "STATE_005": 20,
+        "STATE_006": 15,
+        "STATE_010": 6,
+        "nan": 3,
+        "STATE_004": 2,
+        "STATE_009": 2,
+        "STATE_007": 2
+      },
+      "Gender": {
+        "GEN_3.133859511147554": 75,
+        "GEN_1.242365192107026": 38,
+        "nan": 3
+      }
+    },
+    "answers": {
+      "R1Q01": {
+        "Resident of this area": 95,
+        "IDP or an internally displaced person": 14,
+        "Refugee": 6,
+        "Returnee": 1
+      },
+      "R1Q02": {
+        "nan": 96,
+        "Yes": 14,
+        "No": 6
+      },
+      "R1Q03": {
+        "No": 84,
+        "Yes": 32
+      },
+      "R1Q04": {
+        "Agriculture or Farming": 62,
+        "Other": 23,
+        "Trading or vending": 17,
+        "Formal or informal employment": 14
+      },
+      "R1Q05": {
+        "Food": 57,
+        "Repaying Debt": 40,
+        "Education": 10,
+        "Savings": 9
+      },
+      "R1Q06": {
+        "Decreased": 70,
+        "Stayed the same": 34,
+        "Increased": 12
+      },
+      "R1Q07": {
+        "nan": 69,
+        "Higher crop yield": 17,
+        "Other": 14,
+        "New job or loan": 9,
+        "More customers": 7
+      },
+      "R1Q08": {
+        "nan": 46,
+        "Rising costs": 41,
+        "Poor rains or water": 14,
+        "Insecurity or low demand": 9,
+        "Other": 6
+      },
+      "R1Q09": {
+        "No": 93,
+        "Yes": 23
+      },
+      "R1Q10": {
+        "Difficult": 42,
+        "Very Easy": 32,
+        "Easy": 26,
+        "Very Difficult": 16
+      },
+      "R1Q11": {
+        "Yes": 75,
+        "NO": 41
+      },
+      "R1Q12": {
+        "Difficult": 51,
+        "Easy": 36,
+        "Very Easy": 15,
+        "Very Difficult": 14
+      },
+      "R1Q13": {
+        "No, there were not diseases this month": 62,
+        "Yes there is a disease but not related to water": 28,
+        "Yes, if there is a water related disease": 26
+      },
+      "R1Q01 (Multiple Choice Question)": {
+        "resident of this area": 95,
+        "IDP or an internally displaced person": 14,
+        "Refugee": 6,
+        "Returnee": 1
+      },
+      "R1Q02 (Multiple Choice Question)": {
+        "nan": 96,
+        "Yes": 14,
+        "No": 6
+      },
+      "R1Q03 (Multiple Choice Question)": {
+        "No": 84,
+        "Yes": 32
+      },
+      "R1Q04 (Multiple Choice Question)": {
+        "Agriculture or Farming": 62,
+        "Other": 23,
+        "Trading or vending": 17,
+        "Formal or informal employment": 14
+      },
+      "R1Q05 (Multiple Choice Question)": {
+        "Food": 57,
+        "Repaying Debt": 40,
+        "Education": 10,
+        "Savings": 9
+      },
+      "R1Q06 (Multiple Choice Question)": {
+        "Decreased": 70,
+        "Stayed the same": 34,
+        "Increased": 12
+      },
+      "R1Q07 (Multiple Choice Question)": {
+        "nan": 69,
+        "Higher crop yield": 17,
+        "Other": 14,
+        "New job or loan": 9,
+        "More customers": 7
+      },
+      "R1Q08 (Multiple Choice Question)": {
+        "nan": 46,
+        "Rising costs": 41,
+        "Poor rains or water": 14,
+        "Insecurity or low demand": 9,
+        "Other": 6
+      },
+      "R1Q09 (Multiple Choice Question)": {
+        "No": 93,
+        "Yes": 23
+      },
+      "R1Q10 (Multiple Choice Question)": {
+        "Difficult": 42,
+        "Very Easy": 32,
+        "Easy": 26,
+        "Very difficult": 16
+      },
+      "R1Q11 (Multiple Choice Question)": {
+        "Yes": 75,
+        "No": 41
+      },
+      "R1Q12 (Multiple Choice Question)": {
+        "Difficult": 51,
+        "Easy": 36,
+        "Very Easy": 15,
+        "Very Difficult": 14
+      },
+      "R1Q13 (Multiple Choice Question)": {
+        "No, there were not diseases this month": 62,
+        "Yes there is a disease but not related to water": 28,
+        "Yes, if there is a water related disease": 26
+      }
+    }
+  }
+}

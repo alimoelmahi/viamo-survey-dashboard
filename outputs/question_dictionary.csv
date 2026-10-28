@@ -1,0 +1,14 @@
+question,topic_label,interpretation_caveat
+R1Q01,Residency status,Residency categories are available; exact questionnaire wording was not supplied.
+R1Q02,Conditional yes/no item,Exact wording and eligibility rule unavailable. Do not assign a topic to this item.
+R1Q03,Yes/no item,Exact wording unavailable. Do not interpret the yes/no result as a programme outcome.
+R1Q04,Main livelihood category,Category interpretation from recorded answer labels; exact wording unavailable.
+R1Q05,Spending priority,Topic inferred from the narrative report and answer labels; exact wording unavailable.
+R1Q06,Reported income change,Reference report identifies this as income change; recall period and exact wording unavailable.
+R1Q07,Reason for income increase,Skip-logic conflict: answers recorded for unchanged and decreased income. Not validated for programme reporting.
+R1Q08,Reason for income decrease,Topic supported by answer labels; exact eligibility rule unavailable.
+R1Q09,Yes/no item,Exact wording unavailable. Do not label this as water use or another specific topic.
+R1Q10,Reported ease/difficulty item,Exact wording unavailable; service domain not established.
+R1Q11,Yes/no item,Exact wording unavailable. Do not assign a specific service domain.
+R1Q12,Reported ease/difficulty item,Exact wording unavailable; service domain not established.
+R1Q13,Reported disease category,"Self-reported answer categories, not diagnosed disease or attributable programme effects."

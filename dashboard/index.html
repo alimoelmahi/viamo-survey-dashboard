@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sudan Farmers | IVR Programme Monitoring</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="palette.css">
+  <script defer src="vendor/chart.umd.js"></script>
+  <script defer src="vendor/d3.min.js"></script>
+  <script defer src="vendor/lucide.min.js"></script>
+  <script defer src="data.js"></script>
+  <script defer src="map.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="identity"><span class="brand">UNDP <span>/ SUDAN</span></span><p>Farmers survey</p></div>
+    <nav aria-label="Dashboard pages">
+      <button data-page="overview" class="active"><i data-lucide="layout-dashboard"></i>Overview</button>
+      <button data-page="geography"><i data-lucide="map"></i>By area</button>
+      <button data-page="comparison"><i data-lucide="users"></i>Who answered</button>
+      <button data-page="calls"><i data-lucide="phone-outgoing"></i>Calls</button>
+      <button data-page="survey"><i data-lucide="chart-no-axes-combined"></i>Survey answers</button>
+      <button data-page="quality"><i data-lucide="shield-check"></i>Data checks</button>
+    </nav>
+    <div class="sidebar-bottom"><span class="status-dot"></span>September 2026 · Round 1<p>Export: 2 October 2026<br>Internal analytical dashboard<br>Not an official UNDP publication</p></div>
+  </aside>
+  <main>
+    <header class="topbar"><div><span class="eyebrow">FARMERS SURVEY · ROUND 1</span><h1>Sudan Farmers Survey</h1></div><div class="header-actions"><button id="export" title="Download the current summary table"><i data-lucide="download"></i><span>Download table</span></button><button id="print" class="icon-button" title="Print this page" aria-label="Print this page"><i data-lucide="printer"></i></button></div></header>
+    <section class="filters" aria-label="Shared dashboard filters">
+      <label>State<select id="state"><option value="">All states</option></select></label>
+      <label>Gender<select id="gender"><option value="">All genders</option></select></label>
+      <label>Call date from<input id="from" type="date" min="2026-09-02" max="2026-09-29" aria-label="Call date from"></label>
+      <label>Call date to<input id="to" type="date" min="2026-09-02" max="2026-09-29" aria-label="Call date to"></label>
+      <label>Call result<select id="outcome"><option value="">All results</option><option value="Finished (complete)">Answered, call finished</option><option value="Finished (incomplete)">Answered, call ended early</option><option value="Failed (No Answer)">No answer</option><option value="Failed (error)">Call error</option></select></label>
+      <label>Number of calls<select id="attempts"><option value="">All people</option><option value="0">No calls</option><option value="1">1 call</option><option value="2">2 calls</option><option value="3">3 calls</option><option value="4">4 or more calls</option></select></label>
+      <label>Survey progress<select id="completion"><option value="">All people</option><option value="completed">Finished the survey</option><option value="answered">Answered, no finished survey</option><option value="unreached">Called, did not answer</option><option value="uncalled">No call made</option></select></label>
+      <label>Support received<select id="support"><option value="">All support types</option></select></label>
+      <button id="reset" class="icon-button" title="Reset all filters" aria-label="Reset all filters"><i data-lucide="rotate-ccw"></i></button>
+    </section>
+    <div class="scope-bar"><span id="scope-count"></span><span id="scope-note"></span></div>
+    <div id="filter-error" class="notice danger" role="alert" hidden></div>
+    <section id="content" aria-live="polite"></section>
+    <footer>Survey answers are not weighted · Phone numbers and names are hidden · Percentages are not shown for groups with fewer than 10 people · Survey finish dates were not recorded</footer>
+  </main>
+</body>
+</html>

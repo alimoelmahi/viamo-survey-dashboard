@@ -1,0 +1,589 @@
+attribute,category,question,answer,count,nonmissing_item_base,percent,small_base,unweighted
+Overall,All completed respondents,R1Q01,IDP or an internally displaced person,14,116,12.07,False,True
+Overall,All completed respondents,R1Q01,Refugee,6,116,5.17,False,True
+Overall,All completed respondents,R1Q01,Resident of this area,95,116,81.9,False,True
+Overall,All completed respondents,R1Q01,Returnee,1,116,0.86,False,True
+Overall,All completed respondents,R1Q02,No,6,20,30.0,False,True
+Overall,All completed respondents,R1Q02,Yes,14,20,70.0,False,True
+Overall,All completed respondents,R1Q03,No,84,116,72.41,False,True
+Overall,All completed respondents,R1Q03,Yes,32,116,27.59,False,True
+Overall,All completed respondents,R1Q04,Agriculture or Farming,62,116,53.45,False,True
+Overall,All completed respondents,R1Q04,Formal or informal employment,14,116,12.07,False,True
+Overall,All completed respondents,R1Q04,Other,23,116,19.83,False,True
+Overall,All completed respondents,R1Q04,Trading or vending,17,116,14.66,False,True
+Overall,All completed respondents,R1Q05,Education,10,116,8.62,False,True
+Overall,All completed respondents,R1Q05,Food,57,116,49.14,False,True
+Overall,All completed respondents,R1Q05,Repaying Debt,40,116,34.48,False,True
+Overall,All completed respondents,R1Q05,Savings,9,116,7.76,False,True
+Overall,All completed respondents,R1Q06,Decreased,70,116,60.34,False,True
+Overall,All completed respondents,R1Q06,Increased,12,116,10.34,False,True
+Overall,All completed respondents,R1Q06,Stayed the same,34,116,29.31,False,True
+Overall,All completed respondents,R1Q07,Higher crop yield,17,47,36.17,False,True
+Overall,All completed respondents,R1Q07,More customers,7,47,14.89,False,True
+Overall,All completed respondents,R1Q07,New job or loan,9,47,19.15,False,True
+Overall,All completed respondents,R1Q07,Other,14,47,29.79,False,True
+Overall,All completed respondents,R1Q08,Insecurity or low demand,9,70,12.86,False,True
+Overall,All completed respondents,R1Q08,Other,6,70,8.57,False,True
+Overall,All completed respondents,R1Q08,Poor rains or water,14,70,20.0,False,True
+Overall,All completed respondents,R1Q08,Rising costs,41,70,58.57,False,True
+Overall,All completed respondents,R1Q09,No,93,116,80.17,False,True
+Overall,All completed respondents,R1Q09,Yes,23,116,19.83,False,True
+Overall,All completed respondents,R1Q10,Difficult,42,116,36.21,False,True
+Overall,All completed respondents,R1Q10,Easy,26,116,22.41,False,True
+Overall,All completed respondents,R1Q10,Very Difficult,16,116,13.79,False,True
+Overall,All completed respondents,R1Q10,Very Easy,32,116,27.59,False,True
+Overall,All completed respondents,R1Q11,No,41,116,35.34,False,True
+Overall,All completed respondents,R1Q11,Yes,75,116,64.66,False,True
+Overall,All completed respondents,R1Q12,Difficult,51,116,43.97,False,True
+Overall,All completed respondents,R1Q12,Easy,36,116,31.03,False,True
+Overall,All completed respondents,R1Q12,Very Difficult,14,116,12.07,False,True
+Overall,All completed respondents,R1Q12,Very Easy,15,116,12.93,False,True
+Overall,All completed respondents,R1Q13,"No, there were not diseases this month",62,116,53.45,False,True
+Overall,All completed respondents,R1Q13,Yes there is a disease but not related to water,28,116,24.14,False,True
+Overall,All completed respondents,R1Q13,"Yes, if there is a water related disease",26,116,22.41,False,True
+State,Al Jazeera,R1Q01,Resident of this area,1,2,,True,True
+State,Al Jazeera,R1Q01,Returnee,1,2,,True,True
+State,Al Jazeera,R1Q03,No,2,2,,True,True
+State,Al Jazeera,R1Q04,Formal or informal employment,1,2,,True,True
+State,Al Jazeera,R1Q04,Other,1,2,,True,True
+State,Al Jazeera,R1Q05,Repaying Debt,2,2,,True,True
+State,Al Jazeera,R1Q06,Decreased,2,2,,True,True
+State,Al Jazeera,R1Q08,Insecurity or low demand,1,2,,True,True
+State,Al Jazeera,R1Q08,Rising costs,1,2,,True,True
+State,Al Jazeera,R1Q09,No,1,2,,True,True
+State,Al Jazeera,R1Q09,Yes,1,2,,True,True
+State,Al Jazeera,R1Q10,Difficult,2,2,,True,True
+State,Al Jazeera,R1Q11,No,1,2,,True,True
+State,Al Jazeera,R1Q11,Yes,1,2,,True,True
+State,Al Jazeera,R1Q12,Difficult,1,2,,True,True
+State,Al Jazeera,R1Q12,Easy,1,2,,True,True
+State,Al Jazeera,R1Q13,"No, there were not diseases this month",1,2,,True,True
+State,Al Jazeera,R1Q13,"Yes, if there is a water related disease",1,2,,True,True
+State,Gedaref,R1Q01,IDP or an internally displaced person,4,20,20.0,False,True
+State,Gedaref,R1Q01,Refugee,2,20,10.0,False,True
+State,Gedaref,R1Q01,Resident of this area,14,20,70.0,False,True
+State,Gedaref,R1Q02,No,3,6,,True,True
+State,Gedaref,R1Q02,Yes,3,6,,True,True
+State,Gedaref,R1Q03,No,15,20,75.0,False,True
+State,Gedaref,R1Q03,Yes,5,20,25.0,False,True
+State,Gedaref,R1Q04,Agriculture or Farming,8,20,40.0,False,True
+State,Gedaref,R1Q04,Formal or informal employment,1,20,5.0,False,True
+State,Gedaref,R1Q04,Other,7,20,35.0,False,True
+State,Gedaref,R1Q04,Trading or vending,4,20,20.0,False,True
+State,Gedaref,R1Q05,Education,5,20,25.0,False,True
+State,Gedaref,R1Q05,Food,9,20,45.0,False,True
+State,Gedaref,R1Q05,Repaying Debt,4,20,20.0,False,True
+State,Gedaref,R1Q05,Savings,2,20,10.0,False,True
+State,Gedaref,R1Q06,Decreased,10,20,50.0,False,True
+State,Gedaref,R1Q06,Increased,4,20,20.0,False,True
+State,Gedaref,R1Q06,Stayed the same,6,20,30.0,False,True
+State,Gedaref,R1Q07,Higher crop yield,5,10,50.0,False,True
+State,Gedaref,R1Q07,More customers,1,10,10.0,False,True
+State,Gedaref,R1Q07,New job or loan,3,10,30.0,False,True
+State,Gedaref,R1Q07,Other,1,10,10.0,False,True
+State,Gedaref,R1Q08,Insecurity or low demand,1,10,10.0,False,True
+State,Gedaref,R1Q08,Other,1,10,10.0,False,True
+State,Gedaref,R1Q08,Poor rains or water,1,10,10.0,False,True
+State,Gedaref,R1Q08,Rising costs,7,10,70.0,False,True
+State,Gedaref,R1Q09,No,13,20,65.0,False,True
+State,Gedaref,R1Q09,Yes,7,20,35.0,False,True
+State,Gedaref,R1Q10,Difficult,8,20,40.0,False,True
+State,Gedaref,R1Q10,Easy,5,20,25.0,False,True
+State,Gedaref,R1Q10,Very Difficult,4,20,20.0,False,True
+State,Gedaref,R1Q10,Very Easy,3,20,15.0,False,True
+State,Gedaref,R1Q11,No,11,20,55.0,False,True
+State,Gedaref,R1Q11,Yes,9,20,45.0,False,True
+State,Gedaref,R1Q12,Difficult,8,20,40.0,False,True
+State,Gedaref,R1Q12,Easy,3,20,15.0,False,True
+State,Gedaref,R1Q12,Very Difficult,6,20,30.0,False,True
+State,Gedaref,R1Q12,Very Easy,3,20,15.0,False,True
+State,Gedaref,R1Q13,"No, there were not diseases this month",9,20,45.0,False,True
+State,Gedaref,R1Q13,Yes there is a disease but not related to water,4,20,20.0,False,True
+State,Gedaref,R1Q13,"Yes, if there is a water related disease",7,20,35.0,False,True
+State,Kassala,R1Q01,Resident of this area,15,15,100.0,False,True
+State,Kassala,R1Q03,No,12,15,80.0,False,True
+State,Kassala,R1Q03,Yes,3,15,20.0,False,True
+State,Kassala,R1Q04,Agriculture or Farming,6,15,40.0,False,True
+State,Kassala,R1Q04,Formal or informal employment,5,15,33.33,False,True
+State,Kassala,R1Q04,Other,1,15,6.67,False,True
+State,Kassala,R1Q04,Trading or vending,3,15,20.0,False,True
+State,Kassala,R1Q05,Education,1,15,6.67,False,True
+State,Kassala,R1Q05,Food,5,15,33.33,False,True
+State,Kassala,R1Q05,Repaying Debt,7,15,46.67,False,True
+State,Kassala,R1Q05,Savings,2,15,13.33,False,True
+State,Kassala,R1Q06,Decreased,9,15,60.0,False,True
+State,Kassala,R1Q06,Increased,2,15,13.33,False,True
+State,Kassala,R1Q06,Stayed the same,4,15,26.67,False,True
+State,Kassala,R1Q07,Higher crop yield,2,6,,True,True
+State,Kassala,R1Q07,More customers,2,6,,True,True
+State,Kassala,R1Q07,New job or loan,1,6,,True,True
+State,Kassala,R1Q07,Other,1,6,,True,True
+State,Kassala,R1Q08,Other,1,9,,True,True
+State,Kassala,R1Q08,Poor rains or water,2,9,,True,True
+State,Kassala,R1Q08,Rising costs,6,9,,True,True
+State,Kassala,R1Q09,No,14,15,93.33,False,True
+State,Kassala,R1Q09,Yes,1,15,6.67,False,True
+State,Kassala,R1Q10,Difficult,7,15,46.67,False,True
+State,Kassala,R1Q10,Easy,4,15,26.67,False,True
+State,Kassala,R1Q10,Very Difficult,2,15,13.33,False,True
+State,Kassala,R1Q10,Very Easy,2,15,13.33,False,True
+State,Kassala,R1Q11,No,6,15,40.0,False,True
+State,Kassala,R1Q11,Yes,9,15,60.0,False,True
+State,Kassala,R1Q12,Difficult,10,15,66.67,False,True
+State,Kassala,R1Q12,Easy,4,15,26.67,False,True
+State,Kassala,R1Q12,Very Easy,1,15,6.67,False,True
+State,Kassala,R1Q13,"No, there were not diseases this month",8,15,53.33,False,True
+State,Kassala,R1Q13,Yes there is a disease but not related to water,4,15,26.67,False,True
+State,Kassala,R1Q13,"Yes, if there is a water related disease",3,15,20.0,False,True
+State,Red Sea,R1Q01,Resident of this area,2,2,,True,True
+State,Red Sea,R1Q03,No,1,2,,True,True
+State,Red Sea,R1Q03,Yes,1,2,,True,True
+State,Red Sea,R1Q04,Agriculture or Farming,2,2,,True,True
+State,Red Sea,R1Q05,Food,1,2,,True,True
+State,Red Sea,R1Q05,Savings,1,2,,True,True
+State,Red Sea,R1Q06,Decreased,2,2,,True,True
+State,Red Sea,R1Q08,Poor rains or water,2,2,,True,True
+State,Red Sea,R1Q09,Yes,2,2,,True,True
+State,Red Sea,R1Q10,Difficult,1,2,,True,True
+State,Red Sea,R1Q10,Very Easy,1,2,,True,True
+State,Red Sea,R1Q11,Yes,2,2,,True,True
+State,Red Sea,R1Q12,Easy,1,2,,True,True
+State,Red Sea,R1Q12,Very Difficult,1,2,,True,True
+State,Red Sea,R1Q13,"No, there were not diseases this month",2,2,,True,True
+State,River Nile,R1Q01,IDP or an internally displaced person,9,66,13.64,False,True
+State,River Nile,R1Q01,Refugee,3,66,4.55,False,True
+State,River Nile,R1Q01,Resident of this area,54,66,81.82,False,True
+State,River Nile,R1Q02,No,3,12,25.0,False,True
+State,River Nile,R1Q02,Yes,9,12,75.0,False,True
+State,River Nile,R1Q03,No,45,66,68.18,False,True
+State,River Nile,R1Q03,Yes,21,66,31.82,False,True
+State,River Nile,R1Q04,Agriculture or Farming,42,66,63.64,False,True
+State,River Nile,R1Q04,Formal or informal employment,6,66,9.09,False,True
+State,River Nile,R1Q04,Other,12,66,18.18,False,True
+State,River Nile,R1Q04,Trading or vending,6,66,9.09,False,True
+State,River Nile,R1Q05,Education,3,66,4.55,False,True
+State,River Nile,R1Q05,Food,38,66,57.58,False,True
+State,River Nile,R1Q05,Repaying Debt,23,66,34.85,False,True
+State,River Nile,R1Q05,Savings,2,66,3.03,False,True
+State,River Nile,R1Q06,Decreased,39,66,59.09,False,True
+State,River Nile,R1Q06,Increased,5,66,7.58,False,True
+State,River Nile,R1Q06,Stayed the same,22,66,33.33,False,True
+State,River Nile,R1Q07,Higher crop yield,9,27,33.33,False,True
+State,River Nile,R1Q07,More customers,4,27,14.81,False,True
+State,River Nile,R1Q07,New job or loan,3,27,11.11,False,True
+State,River Nile,R1Q07,Other,11,27,40.74,False,True
+State,River Nile,R1Q08,Insecurity or low demand,7,39,17.95,False,True
+State,River Nile,R1Q08,Other,3,39,7.69,False,True
+State,River Nile,R1Q08,Poor rains or water,6,39,15.38,False,True
+State,River Nile,R1Q08,Rising costs,23,39,58.97,False,True
+State,River Nile,R1Q09,No,56,66,84.85,False,True
+State,River Nile,R1Q09,Yes,10,66,15.15,False,True
+State,River Nile,R1Q10,Difficult,19,66,28.79,False,True
+State,River Nile,R1Q10,Easy,17,66,25.76,False,True
+State,River Nile,R1Q10,Very Difficult,6,66,9.09,False,True
+State,River Nile,R1Q10,Very Easy,24,66,36.36,False,True
+State,River Nile,R1Q11,No,19,66,28.79,False,True
+State,River Nile,R1Q11,Yes,47,66,71.21,False,True
+State,River Nile,R1Q12,Difficult,26,66,39.39,False,True
+State,River Nile,R1Q12,Easy,25,66,37.88,False,True
+State,River Nile,R1Q12,Very Difficult,5,66,7.58,False,True
+State,River Nile,R1Q12,Very Easy,10,66,15.15,False,True
+State,River Nile,R1Q13,"No, there were not diseases this month",37,66,56.06,False,True
+State,River Nile,R1Q13,Yes there is a disease but not related to water,19,66,28.79,False,True
+State,River Nile,R1Q13,"Yes, if there is a water related disease",10,66,15.15,False,True
+State,Sennar,R1Q01,IDP or an internally displaced person,1,2,,True,True
+State,Sennar,R1Q01,Refugee,1,2,,True,True
+State,Sennar,R1Q02,Yes,2,2,,True,True
+State,Sennar,R1Q03,No,1,2,,True,True
+State,Sennar,R1Q03,Yes,1,2,,True,True
+State,Sennar,R1Q04,Formal or informal employment,1,2,,True,True
+State,Sennar,R1Q04,Trading or vending,1,2,,True,True
+State,Sennar,R1Q05,Food,1,2,,True,True
+State,Sennar,R1Q05,Repaying Debt,1,2,,True,True
+State,Sennar,R1Q06,Decreased,2,2,,True,True
+State,Sennar,R1Q08,Rising costs,2,2,,True,True
+State,Sennar,R1Q09,No,1,2,,True,True
+State,Sennar,R1Q09,Yes,1,2,,True,True
+State,Sennar,R1Q10,Very Easy,2,2,,True,True
+State,Sennar,R1Q11,Yes,2,2,,True,True
+State,Sennar,R1Q12,Easy,1,2,,True,True
+State,Sennar,R1Q12,Very Easy,1,2,,True,True
+State,Sennar,R1Q13,"No, there were not diseases this month",1,2,,True,True
+State,Sennar,R1Q13,Yes there is a disease but not related to water,1,2,,True,True
+State,Unknown / unmatched,R1Q01,Resident of this area,3,3,,True,True
+State,Unknown / unmatched,R1Q03,No,2,3,,True,True
+State,Unknown / unmatched,R1Q03,Yes,1,3,,True,True
+State,Unknown / unmatched,R1Q04,Agriculture or Farming,1,3,,True,True
+State,Unknown / unmatched,R1Q04,Other,1,3,,True,True
+State,Unknown / unmatched,R1Q04,Trading or vending,1,3,,True,True
+State,Unknown / unmatched,R1Q05,Education,1,3,,True,True
+State,Unknown / unmatched,R1Q05,Savings,2,3,,True,True
+State,Unknown / unmatched,R1Q06,Decreased,1,3,,True,True
+State,Unknown / unmatched,R1Q06,Increased,1,3,,True,True
+State,Unknown / unmatched,R1Q06,Stayed the same,1,3,,True,True
+State,Unknown / unmatched,R1Q07,Higher crop yield,1,3,,True,True
+State,Unknown / unmatched,R1Q07,New job or loan,2,3,,True,True
+State,Unknown / unmatched,R1Q08,Rising costs,1,1,,True,True
+State,Unknown / unmatched,R1Q09,No,2,3,,True,True
+State,Unknown / unmatched,R1Q09,Yes,1,3,,True,True
+State,Unknown / unmatched,R1Q10,Difficult,2,3,,True,True
+State,Unknown / unmatched,R1Q10,Very Difficult,1,3,,True,True
+State,Unknown / unmatched,R1Q11,No,3,3,,True,True
+State,Unknown / unmatched,R1Q12,Difficult,1,3,,True,True
+State,Unknown / unmatched,R1Q12,Very Difficult,2,3,,True,True
+State,Unknown / unmatched,R1Q13,"No, there were not diseases this month",2,3,,True,True
+State,Unknown / unmatched,R1Q13,"Yes, if there is a water related disease",1,3,,True,True
+State,White Nile,R1Q01,Resident of this area,6,6,,True,True
+State,White Nile,R1Q03,No,6,6,,True,True
+State,White Nile,R1Q04,Agriculture or Farming,3,6,,True,True
+State,White Nile,R1Q04,Other,1,6,,True,True
+State,White Nile,R1Q04,Trading or vending,2,6,,True,True
+State,White Nile,R1Q05,Food,3,6,,True,True
+State,White Nile,R1Q05,Repaying Debt,3,6,,True,True
+State,White Nile,R1Q06,Decreased,5,6,,True,True
+State,White Nile,R1Q06,Stayed the same,1,6,,True,True
+State,White Nile,R1Q07,Other,1,1,,True,True
+State,White Nile,R1Q08,Other,1,5,,True,True
+State,White Nile,R1Q08,Poor rains or water,3,5,,True,True
+State,White Nile,R1Q08,Rising costs,1,5,,True,True
+State,White Nile,R1Q09,No,6,6,,True,True
+State,White Nile,R1Q10,Difficult,3,6,,True,True
+State,White Nile,R1Q10,Very Difficult,3,6,,True,True
+State,White Nile,R1Q11,No,1,6,,True,True
+State,White Nile,R1Q11,Yes,5,6,,True,True
+State,White Nile,R1Q12,Difficult,5,6,,True,True
+State,White Nile,R1Q12,Easy,1,6,,True,True
+State,White Nile,R1Q13,"No, there were not diseases this month",2,6,,True,True
+State,White Nile,R1Q13,"Yes, if there is a water related disease",4,6,,True,True
+Gender,Female,R1Q01,IDP or an internally displaced person,7,38,18.42,False,True
+Gender,Female,R1Q01,Refugee,2,38,5.26,False,True
+Gender,Female,R1Q01,Resident of this area,29,38,76.32,False,True
+Gender,Female,R1Q02,No,3,9,,True,True
+Gender,Female,R1Q02,Yes,6,9,,True,True
+Gender,Female,R1Q03,No,27,38,71.05,False,True
+Gender,Female,R1Q03,Yes,11,38,28.95,False,True
+Gender,Female,R1Q04,Agriculture or Farming,13,38,34.21,False,True
+Gender,Female,R1Q04,Formal or informal employment,8,38,21.05,False,True
+Gender,Female,R1Q04,Other,8,38,21.05,False,True
+Gender,Female,R1Q04,Trading or vending,9,38,23.68,False,True
+Gender,Female,R1Q05,Education,7,38,18.42,False,True
+Gender,Female,R1Q05,Food,19,38,50.0,False,True
+Gender,Female,R1Q05,Repaying Debt,8,38,21.05,False,True
+Gender,Female,R1Q05,Savings,4,38,10.53,False,True
+Gender,Female,R1Q06,Decreased,21,38,55.26,False,True
+Gender,Female,R1Q06,Increased,7,38,18.42,False,True
+Gender,Female,R1Q06,Stayed the same,10,38,26.32,False,True
+Gender,Female,R1Q07,Higher crop yield,7,17,41.18,False,True
+Gender,Female,R1Q07,More customers,3,17,17.65,False,True
+Gender,Female,R1Q07,New job or loan,4,17,23.53,False,True
+Gender,Female,R1Q07,Other,3,17,17.65,False,True
+Gender,Female,R1Q08,Insecurity or low demand,2,21,9.52,False,True
+Gender,Female,R1Q08,Other,2,21,9.52,False,True
+Gender,Female,R1Q08,Poor rains or water,3,21,14.29,False,True
+Gender,Female,R1Q08,Rising costs,14,21,66.67,False,True
+Gender,Female,R1Q09,No,30,38,78.95,False,True
+Gender,Female,R1Q09,Yes,8,38,21.05,False,True
+Gender,Female,R1Q10,Difficult,15,38,39.47,False,True
+Gender,Female,R1Q10,Easy,9,38,23.68,False,True
+Gender,Female,R1Q10,Very Difficult,5,38,13.16,False,True
+Gender,Female,R1Q10,Very Easy,9,38,23.68,False,True
+Gender,Female,R1Q11,No,12,38,31.58,False,True
+Gender,Female,R1Q11,Yes,26,38,68.42,False,True
+Gender,Female,R1Q12,Difficult,19,38,50.0,False,True
+Gender,Female,R1Q12,Easy,12,38,31.58,False,True
+Gender,Female,R1Q12,Very Difficult,3,38,7.89,False,True
+Gender,Female,R1Q12,Very Easy,4,38,10.53,False,True
+Gender,Female,R1Q13,"No, there were not diseases this month",18,38,47.37,False,True
+Gender,Female,R1Q13,Yes there is a disease but not related to water,11,38,28.95,False,True
+Gender,Female,R1Q13,"Yes, if there is a water related disease",9,38,23.68,False,True
+Gender,Male,R1Q01,IDP or an internally displaced person,7,75,9.33,False,True
+Gender,Male,R1Q01,Refugee,4,75,5.33,False,True
+Gender,Male,R1Q01,Resident of this area,63,75,84.0,False,True
+Gender,Male,R1Q01,Returnee,1,75,1.33,False,True
+Gender,Male,R1Q02,No,3,11,27.27,False,True
+Gender,Male,R1Q02,Yes,8,11,72.73,False,True
+Gender,Male,R1Q03,No,55,75,73.33,False,True
+Gender,Male,R1Q03,Yes,20,75,26.67,False,True
+Gender,Male,R1Q04,Agriculture or Farming,48,75,64.0,False,True
+Gender,Male,R1Q04,Formal or informal employment,6,75,8.0,False,True
+Gender,Male,R1Q04,Other,14,75,18.67,False,True
+Gender,Male,R1Q04,Trading or vending,7,75,9.33,False,True
+Gender,Male,R1Q05,Education,2,75,2.67,False,True
+Gender,Male,R1Q05,Food,38,75,50.67,False,True
+Gender,Male,R1Q05,Repaying Debt,32,75,42.67,False,True
+Gender,Male,R1Q05,Savings,3,75,4.0,False,True
+Gender,Male,R1Q06,Decreased,48,75,64.0,False,True
+Gender,Male,R1Q06,Increased,4,75,5.33,False,True
+Gender,Male,R1Q06,Stayed the same,23,75,30.67,False,True
+Gender,Male,R1Q07,Higher crop yield,9,27,33.33,False,True
+Gender,Male,R1Q07,More customers,4,27,14.81,False,True
+Gender,Male,R1Q07,New job or loan,3,27,11.11,False,True
+Gender,Male,R1Q07,Other,11,27,40.74,False,True
+Gender,Male,R1Q08,Insecurity or low demand,7,48,14.58,False,True
+Gender,Male,R1Q08,Other,4,48,8.33,False,True
+Gender,Male,R1Q08,Poor rains or water,11,48,22.92,False,True
+Gender,Male,R1Q08,Rising costs,26,48,54.17,False,True
+Gender,Male,R1Q09,No,61,75,81.33,False,True
+Gender,Male,R1Q09,Yes,14,75,18.67,False,True
+Gender,Male,R1Q10,Difficult,25,75,33.33,False,True
+Gender,Male,R1Q10,Easy,17,75,22.67,False,True
+Gender,Male,R1Q10,Very Difficult,10,75,13.33,False,True
+Gender,Male,R1Q10,Very Easy,23,75,30.67,False,True
+Gender,Male,R1Q11,No,26,75,34.67,False,True
+Gender,Male,R1Q11,Yes,49,75,65.33,False,True
+Gender,Male,R1Q12,Difficult,31,75,41.33,False,True
+Gender,Male,R1Q12,Easy,24,75,32.0,False,True
+Gender,Male,R1Q12,Very Difficult,9,75,12.0,False,True
+Gender,Male,R1Q12,Very Easy,11,75,14.67,False,True
+Gender,Male,R1Q13,"No, there were not diseases this month",42,75,56.0,False,True
+Gender,Male,R1Q13,Yes there is a disease but not related to water,17,75,22.67,False,True
+Gender,Male,R1Q13,"Yes, if there is a water related disease",16,75,21.33,False,True
+Gender,Unknown / unmatched,R1Q01,Resident of this area,3,3,,True,True
+Gender,Unknown / unmatched,R1Q03,No,2,3,,True,True
+Gender,Unknown / unmatched,R1Q03,Yes,1,3,,True,True
+Gender,Unknown / unmatched,R1Q04,Agriculture or Farming,1,3,,True,True
+Gender,Unknown / unmatched,R1Q04,Other,1,3,,True,True
+Gender,Unknown / unmatched,R1Q04,Trading or vending,1,3,,True,True
+Gender,Unknown / unmatched,R1Q05,Education,1,3,,True,True
+Gender,Unknown / unmatched,R1Q05,Savings,2,3,,True,True
+Gender,Unknown / unmatched,R1Q06,Decreased,1,3,,True,True
+Gender,Unknown / unmatched,R1Q06,Increased,1,3,,True,True
+Gender,Unknown / unmatched,R1Q06,Stayed the same,1,3,,True,True
+Gender,Unknown / unmatched,R1Q07,Higher crop yield,1,3,,True,True
+Gender,Unknown / unmatched,R1Q07,New job or loan,2,3,,True,True
+Gender,Unknown / unmatched,R1Q08,Rising costs,1,1,,True,True
+Gender,Unknown / unmatched,R1Q09,No,2,3,,True,True
+Gender,Unknown / unmatched,R1Q09,Yes,1,3,,True,True
+Gender,Unknown / unmatched,R1Q10,Difficult,2,3,,True,True
+Gender,Unknown / unmatched,R1Q10,Very Difficult,1,3,,True,True
+Gender,Unknown / unmatched,R1Q11,No,3,3,,True,True
+Gender,Unknown / unmatched,R1Q12,Difficult,1,3,,True,True
+Gender,Unknown / unmatched,R1Q12,Very Difficult,2,3,,True,True
+Gender,Unknown / unmatched,R1Q13,"No, there were not diseases this month",2,3,,True,True
+Gender,Unknown / unmatched,R1Q13,"Yes, if there is a water related disease",1,3,,True,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q01,IDP or an internally displaced person,10,55,18.18,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q01,Refugee,1,55,1.82,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q01,Resident of this area,44,55,80.0,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q02,No,4,11,36.36,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q02,Yes,7,11,63.64,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q03,No,37,55,67.27,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q03,Yes,18,55,32.73,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q04,Agriculture or Farming,32,55,58.18,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q04,Formal or informal employment,6,55,10.91,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q04,Other,10,55,18.18,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q04,Trading or vending,7,55,12.73,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q05,Education,8,55,14.55,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q05,Food,31,55,56.36,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q05,Repaying Debt,16,55,29.09,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q06,Decreased,33,55,60.0,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q06,Increased,4,55,7.27,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q06,Stayed the same,18,55,32.73,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q07,Higher crop yield,7,22,31.82,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q07,More customers,4,22,18.18,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q07,New job or loan,4,22,18.18,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q07,Other,7,22,31.82,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q08,Insecurity or low demand,8,33,24.24,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q08,Other,1,33,3.03,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q08,Poor rains or water,3,33,9.09,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q08,Rising costs,21,33,63.64,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q09,No,49,55,89.09,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q09,Yes,6,55,10.91,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q10,Difficult,16,55,29.09,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q10,Easy,12,55,21.82,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q10,Very Difficult,6,55,10.91,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q10,Very Easy,21,55,38.18,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q11,No,18,55,32.73,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q11,Yes,37,55,67.27,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q12,Difficult,26,55,47.27,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q12,Easy,18,55,32.73,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q12,Very Difficult,6,55,10.91,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q12,Very Easy,5,55,9.09,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q13,"No, there were not diseases this month",27,55,49.09,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q13,Yes there is a disease but not related to water,18,55,32.73,False,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",R1Q13,"Yes, if there is a water related disease",10,55,18.18,False,True
+Type of Support,CMC Capacity building,R1Q01,Resident of this area,7,7,,True,True
+Type of Support,CMC Capacity building,R1Q03,No,5,7,,True,True
+Type of Support,CMC Capacity building,R1Q03,Yes,2,7,,True,True
+Type of Support,CMC Capacity building,R1Q04,Agriculture or Farming,7,7,,True,True
+Type of Support,CMC Capacity building,R1Q05,Food,2,7,,True,True
+Type of Support,CMC Capacity building,R1Q05,Repaying Debt,3,7,,True,True
+Type of Support,CMC Capacity building,R1Q05,Savings,2,7,,True,True
+Type of Support,CMC Capacity building,R1Q06,Decreased,4,7,,True,True
+Type of Support,CMC Capacity building,R1Q06,Increased,1,7,,True,True
+Type of Support,CMC Capacity building,R1Q06,Stayed the same,2,7,,True,True
+Type of Support,CMC Capacity building,R1Q07,Higher crop yield,2,3,,True,True
+Type of Support,CMC Capacity building,R1Q07,New job or loan,1,3,,True,True
+Type of Support,CMC Capacity building,R1Q08,Poor rains or water,3,4,,True,True
+Type of Support,CMC Capacity building,R1Q08,Rising costs,1,4,,True,True
+Type of Support,CMC Capacity building,R1Q09,No,4,7,,True,True
+Type of Support,CMC Capacity building,R1Q09,Yes,3,7,,True,True
+Type of Support,CMC Capacity building,R1Q10,Difficult,5,7,,True,True
+Type of Support,CMC Capacity building,R1Q10,Very Difficult,1,7,,True,True
+Type of Support,CMC Capacity building,R1Q10,Very Easy,1,7,,True,True
+Type of Support,CMC Capacity building,R1Q11,No,3,7,,True,True
+Type of Support,CMC Capacity building,R1Q11,Yes,4,7,,True,True
+Type of Support,CMC Capacity building,R1Q12,Difficult,2,7,,True,True
+Type of Support,CMC Capacity building,R1Q12,Easy,3,7,,True,True
+Type of Support,CMC Capacity building,R1Q12,Very Difficult,2,7,,True,True
+Type of Support,CMC Capacity building,R1Q13,"No, there were not diseases this month",2,7,,True,True
+Type of Support,CMC Capacity building,R1Q13,Yes there is a disease but not related to water,1,7,,True,True
+Type of Support,CMC Capacity building,R1Q13,"Yes, if there is a water related disease",4,7,,True,True
+Type of Support,Drinking Water,R1Q01,IDP or an internally displaced person,1,9,,True,True
+Type of Support,Drinking Water,R1Q01,Refugee,1,9,,True,True
+Type of Support,Drinking Water,R1Q01,Resident of this area,6,9,,True,True
+Type of Support,Drinking Water,R1Q01,Returnee,1,9,,True,True
+Type of Support,Drinking Water,R1Q02,Yes,2,2,,True,True
+Type of Support,Drinking Water,R1Q03,No,7,9,,True,True
+Type of Support,Drinking Water,R1Q03,Yes,2,9,,True,True
+Type of Support,Drinking Water,R1Q04,Agriculture or Farming,2,9,,True,True
+Type of Support,Drinking Water,R1Q04,Formal or informal employment,3,9,,True,True
+Type of Support,Drinking Water,R1Q04,Other,2,9,,True,True
+Type of Support,Drinking Water,R1Q04,Trading or vending,2,9,,True,True
+Type of Support,Drinking Water,R1Q05,Food,3,9,,True,True
+Type of Support,Drinking Water,R1Q05,Repaying Debt,5,9,,True,True
+Type of Support,Drinking Water,R1Q05,Savings,1,9,,True,True
+Type of Support,Drinking Water,R1Q06,Decreased,8,9,,True,True
+Type of Support,Drinking Water,R1Q06,Increased,1,9,,True,True
+Type of Support,Drinking Water,R1Q07,More customers,1,1,,True,True
+Type of Support,Drinking Water,R1Q08,Insecurity or low demand,1,8,,True,True
+Type of Support,Drinking Water,R1Q08,Other,2,8,,True,True
+Type of Support,Drinking Water,R1Q08,Poor rains or water,1,8,,True,True
+Type of Support,Drinking Water,R1Q08,Rising costs,4,8,,True,True
+Type of Support,Drinking Water,R1Q09,No,6,9,,True,True
+Type of Support,Drinking Water,R1Q09,Yes,3,9,,True,True
+Type of Support,Drinking Water,R1Q10,Difficult,3,9,,True,True
+Type of Support,Drinking Water,R1Q10,Easy,2,9,,True,True
+Type of Support,Drinking Water,R1Q10,Very Difficult,2,9,,True,True
+Type of Support,Drinking Water,R1Q10,Very Easy,2,9,,True,True
+Type of Support,Drinking Water,R1Q11,No,4,9,,True,True
+Type of Support,Drinking Water,R1Q11,Yes,5,9,,True,True
+Type of Support,Drinking Water,R1Q12,Difficult,4,9,,True,True
+Type of Support,Drinking Water,R1Q12,Easy,3,9,,True,True
+Type of Support,Drinking Water,R1Q12,Very Easy,2,9,,True,True
+Type of Support,Drinking Water,R1Q13,"No, there were not diseases this month",4,9,,True,True
+Type of Support,Drinking Water,R1Q13,Yes there is a disease but not related to water,3,9,,True,True
+Type of Support,Drinking Water,R1Q13,"Yes, if there is a water related disease",2,9,,True,True
+Type of Support,Micro-grant / VSLA,R1Q01,IDP or an internally displaced person,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q01,Refugee,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q01,Resident of this area,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q02,No,1,2,,True,True
+Type of Support,Micro-grant / VSLA,R1Q02,Yes,1,2,,True,True
+Type of Support,Micro-grant / VSLA,R1Q03,No,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q03,Yes,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q04,Agriculture or Farming,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q04,Formal or informal employment,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q04,Trading or vending,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q05,Education,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q05,Food,3,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q06,Decreased,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q06,Increased,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q06,Stayed the same,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q07,Higher crop yield,1,3,,True,True
+Type of Support,Micro-grant / VSLA,R1Q07,New job or loan,2,3,,True,True
+Type of Support,Micro-grant / VSLA,R1Q08,Rising costs,1,1,,True,True
+Type of Support,Micro-grant / VSLA,R1Q09,No,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q09,Yes,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q10,Difficult,3,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q10,Easy,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q11,No,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q11,Yes,3,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q12,Difficult,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q12,Easy,2,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q12,Very Easy,1,4,,True,True
+Type of Support,Micro-grant / VSLA,R1Q13,"No, there were not diseases this month",4,4,,True,True
+Type of Support,Other,R1Q01,IDP or an internally displaced person,1,26,3.85,False,True
+Type of Support,Other,R1Q01,Refugee,2,26,7.69,False,True
+Type of Support,Other,R1Q01,Resident of this area,23,26,88.46,False,True
+Type of Support,Other,R1Q02,No,1,3,,True,True
+Type of Support,Other,R1Q02,Yes,2,3,,True,True
+Type of Support,Other,R1Q03,No,24,26,92.31,False,True
+Type of Support,Other,R1Q03,Yes,2,26,7.69,False,True
+Type of Support,Other,R1Q04,Agriculture or Farming,9,26,34.62,False,True
+Type of Support,Other,R1Q04,Formal or informal employment,3,26,11.54,False,True
+Type of Support,Other,R1Q04,Other,9,26,34.62,False,True
+Type of Support,Other,R1Q04,Trading or vending,5,26,19.23,False,True
+Type of Support,Other,R1Q05,Food,10,26,38.46,False,True
+Type of Support,Other,R1Q05,Repaying Debt,12,26,46.15,False,True
+Type of Support,Other,R1Q05,Savings,4,26,15.38,False,True
+Type of Support,Other,R1Q06,Decreased,16,26,61.54,False,True
+Type of Support,Other,R1Q06,Increased,3,26,11.54,False,True
+Type of Support,Other,R1Q06,Stayed the same,7,26,26.92,False,True
+Type of Support,Other,R1Q07,Higher crop yield,3,10,30.0,False,True
+Type of Support,Other,R1Q07,More customers,1,10,10.0,False,True
+Type of Support,Other,R1Q07,Other,6,10,60.0,False,True
+Type of Support,Other,R1Q08,Other,2,16,12.5,False,True
+Type of Support,Other,R1Q08,Poor rains or water,6,16,37.5,False,True
+Type of Support,Other,R1Q08,Rising costs,8,16,50.0,False,True
+Type of Support,Other,R1Q09,No,22,26,84.62,False,True
+Type of Support,Other,R1Q09,Yes,4,26,15.38,False,True
+Type of Support,Other,R1Q10,Difficult,10,26,38.46,False,True
+Type of Support,Other,R1Q10,Easy,5,26,19.23,False,True
+Type of Support,Other,R1Q10,Very Difficult,5,26,19.23,False,True
+Type of Support,Other,R1Q10,Very Easy,6,26,23.08,False,True
+Type of Support,Other,R1Q11,No,8,26,30.77,False,True
+Type of Support,Other,R1Q11,Yes,18,26,69.23,False,True
+Type of Support,Other,R1Q12,Difficult,14,26,53.85,False,True
+Type of Support,Other,R1Q12,Easy,7,26,26.92,False,True
+Type of Support,Other,R1Q12,Very Difficult,2,26,7.69,False,True
+Type of Support,Other,R1Q12,Very Easy,3,26,11.54,False,True
+Type of Support,Other,R1Q13,"No, there were not diseases this month",13,26,50.0,False,True
+Type of Support,Other,R1Q13,Yes there is a disease but not related to water,5,26,19.23,False,True
+Type of Support,Other,R1Q13,"Yes, if there is a water related disease",8,26,30.77,False,True
+Type of Support,Solar Irrigation,R1Q01,IDP or an internally displaced person,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q01,Refugee,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q01,Resident of this area,10,12,83.33,False,True
+Type of Support,Solar Irrigation,R1Q02,Yes,2,2,,True,True
+Type of Support,Solar Irrigation,R1Q03,No,7,12,58.33,False,True
+Type of Support,Solar Irrigation,R1Q03,Yes,5,12,41.67,False,True
+Type of Support,Solar Irrigation,R1Q04,Agriculture or Farming,10,12,83.33,False,True
+Type of Support,Solar Irrigation,R1Q04,Formal or informal employment,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q04,Other,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q05,Food,8,12,66.67,False,True
+Type of Support,Solar Irrigation,R1Q05,Repaying Debt,4,12,33.33,False,True
+Type of Support,Solar Irrigation,R1Q06,Decreased,7,12,58.33,False,True
+Type of Support,Solar Irrigation,R1Q06,Increased,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q06,Stayed the same,4,12,33.33,False,True
+Type of Support,Solar Irrigation,R1Q07,Higher crop yield,3,5,,True,True
+Type of Support,Solar Irrigation,R1Q07,More customers,1,5,,True,True
+Type of Support,Solar Irrigation,R1Q07,Other,1,5,,True,True
+Type of Support,Solar Irrigation,R1Q08,Other,1,7,,True,True
+Type of Support,Solar Irrigation,R1Q08,Poor rains or water,1,7,,True,True
+Type of Support,Solar Irrigation,R1Q08,Rising costs,5,7,,True,True
+Type of Support,Solar Irrigation,R1Q09,No,8,12,66.67,False,True
+Type of Support,Solar Irrigation,R1Q09,Yes,4,12,33.33,False,True
+Type of Support,Solar Irrigation,R1Q10,Difficult,3,12,25.0,False,True
+Type of Support,Solar Irrigation,R1Q10,Easy,6,12,50.0,False,True
+Type of Support,Solar Irrigation,R1Q10,Very Difficult,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q10,Very Easy,2,12,16.67,False,True
+Type of Support,Solar Irrigation,R1Q11,No,4,12,33.33,False,True
+Type of Support,Solar Irrigation,R1Q11,Yes,8,12,66.67,False,True
+Type of Support,Solar Irrigation,R1Q12,Difficult,3,12,25.0,False,True
+Type of Support,Solar Irrigation,R1Q12,Easy,3,12,25.0,False,True
+Type of Support,Solar Irrigation,R1Q12,Very Difficult,2,12,16.67,False,True
+Type of Support,Solar Irrigation,R1Q12,Very Easy,4,12,33.33,False,True
+Type of Support,Solar Irrigation,R1Q13,"No, there were not diseases this month",10,12,83.33,False,True
+Type of Support,Solar Irrigation,R1Q13,Yes there is a disease but not related to water,1,12,8.33,False,True
+Type of Support,Solar Irrigation,R1Q13,"Yes, if there is a water related disease",1,12,8.33,False,True
+Type of Support,Unknown / unmatched,R1Q01,Resident of this area,3,3,,True,True
+Type of Support,Unknown / unmatched,R1Q03,No,2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q03,Yes,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q04,Agriculture or Farming,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q04,Other,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q04,Trading or vending,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q05,Education,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q05,Savings,2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q06,Decreased,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q06,Increased,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q06,Stayed the same,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q07,Higher crop yield,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q07,New job or loan,2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q08,Rising costs,1,1,,True,True
+Type of Support,Unknown / unmatched,R1Q09,No,2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q09,Yes,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q10,Difficult,2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q10,Very Difficult,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q11,No,3,3,,True,True
+Type of Support,Unknown / unmatched,R1Q12,Difficult,1,3,,True,True
+Type of Support,Unknown / unmatched,R1Q12,Very Difficult,2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q13,"No, there were not diseases this month",2,3,,True,True
+Type of Support,Unknown / unmatched,R1Q13,"Yes, if there is a water related disease",1,3,,True,True

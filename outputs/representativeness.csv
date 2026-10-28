@@ -1,0 +1,171 @@
+attribute,category,master_records,master_phone_keys,called,attempts,reached,completed,nonresponses,contact_rate_called,completion_rate_called,completion_rate_master,master_share,respondent_share,share_difference_pp,small_base
+State,Al Jazeera,22,22,22,34,10,2,20,45.45,9.09,9.09,0.73,1.77,1.04,True
+State,Gedaref,1621,1621,1620,2221,181,20,1601,11.17,1.23,1.23,54.03,17.7,-36.33,False
+State,Kassala,413,413,409,689,78,15,398,19.07,3.67,3.63,13.77,13.27,-0.49,False
+State,Red Sea,43,43,41,58,3,2,41,7.32,4.88,4.65,1.43,1.77,0.34,True
+State,River Nile,794,794,792,928,475,66,728,59.97,8.33,8.31,26.47,58.41,31.94,False
+State,Sennar,21,21,21,39,4,2,19,19.05,9.52,9.52,0.7,1.77,1.07,True
+State,White Nile,86,86,86,117,49,6,80,56.98,6.98,6.98,2.87,5.31,2.44,True
+Gender,Female,1207,1207,1201,1618,223,38,1169,18.57,3.16,3.15,40.23,33.63,-6.61,False
+Gender,Male,1788,1788,1785,2451,576,75,1713,32.27,4.2,4.19,59.6,66.37,6.77,False
+Gender,Unknown,5,5,5,17,1,0,5,20.0,0.0,0.0,0.17,0.0,-0.17,True
+Locality,Ad-Damer,554,554,553,637,345,47,507,62.39,8.5,8.48,18.47,41.59,23.13,False
+Locality,Al Fashaga,434,434,433,594,10,1,433,2.31,0.23,0.23,14.47,0.88,-13.58,True
+Locality,Al-Hasahisa,12,12,12,19,5,1,11,41.67,8.33,8.33,0.4,0.88,0.48,True
+Locality,Al-Kamilin locality,10,10,10,15,5,1,9,50.0,10.0,10.0,0.33,0.88,0.55,True
+Locality,Aljabalin,4,4,4,5,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Locality,Almatama,30,30,29,50,18,1,29,62.07,3.45,3.33,1.0,0.88,-0.12,True
+Locality,Berber,210,210,210,241,112,18,192,53.33,8.57,8.57,7.0,15.93,8.93,False
+Locality,Central Gedaref,591,591,591,758,131,10,581,22.17,1.69,1.69,19.7,8.85,-10.85,False
+Locality,Elmafaza,65,65,65,84,6,0,65,9.23,0.0,0.0,2.17,0.0,-2.17,True
+Locality,Elrahad,4,4,4,4,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Locality,Galaelnahel,49,49,49,68,14,4,45,28.57,8.16,8.16,1.63,3.54,1.91,True
+Locality,Girba,34,34,34,34,20,4,30,58.82,11.76,11.76,1.13,3.54,2.41,True
+Locality,Guli,71,71,71,101,43,5,66,60.56,7.04,7.04,2.37,4.42,2.06,True
+Locality,Guraisha,92,92,92,148,7,1,91,7.61,1.09,1.09,3.07,0.88,-2.18,True
+Locality,Kassala,211,211,207,331,54,8,203,26.09,3.86,3.79,7.03,7.08,0.05,True
+Locality,Khashm El Girba,20,20,20,80,0,0,20,0.0,0.0,0.0,0.67,0.0,-0.67,True
+Locality,New Halfa,78,78,78,161,0,0,78,0.0,0.0,0.0,2.6,0.0,-2.6,True
+Locality,Rural Gedaref,4,4,4,4,2,1,3,50.0,25.0,25.0,0.13,0.88,0.75,True
+Locality,Sinja,21,21,21,39,4,2,19,19.05,9.52,9.52,0.7,1.77,1.07,True
+Locality,Tokar,43,43,41,58,3,2,41,7.32,4.88,4.65,1.43,1.77,0.34,True
+Locality,Unknown,16,16,16,28,7,1,15,43.75,6.25,6.25,0.53,0.88,0.35,True
+Locality,Wad ElHilew,23,23,23,36,1,1,22,4.35,4.35,4.35,0.77,0.88,0.12,True
+Locality,Wad Elhilew,47,47,47,47,3,2,45,6.38,4.26,4.26,1.57,1.77,0.2,True
+Locality,West Galabat,377,377,377,544,10,3,374,2.65,0.8,0.8,12.57,2.65,-9.91,True
+Community,0,760,760,759,1043,12,2,758,1.58,0.26,0.26,25.33,1.77,-23.56,True
+Community,1 Arab,5,5,5,20,0,0,5,0.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,ABU ALNAGA-GARIB,103,103,103,128,42,2,101,40.78,1.94,1.94,3.43,1.77,-1.66,True
+Community,ABU NAGA SHEMAL,100,100,100,128,35,2,98,35.0,2.0,2.0,3.33,1.77,-1.56,True
+Community,AL-REHID,4,4,4,7,3,0,4,75.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,AL-SAyAL,4,4,4,10,2,0,4,50.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,ALIA HOSPITAL,5,5,5,11,3,1,4,60.0,20.0,20.0,0.17,0.88,0.72,True
+Community,ALSAWARD,12,12,11,19,7,0,12,63.64,0.0,0.0,0.4,0.0,-0.4,True
+Community,ALusharjet,3,3,3,6,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,Aboreed,4,4,4,8,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,Abualnaja North,11,11,11,11,9,3,8,81.82,27.27,27.27,0.37,2.65,2.29,True
+Community,Abunajah North,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Abunajah Tajamu,7,7,7,7,4,1,6,57.14,14.29,14.29,0.23,0.88,0.65,True
+Community,Abunajah West,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Al Damer,435,435,435,435,274,42,393,62.99,9.66,9.66,14.5,37.17,22.67,False
+Community,Al Manaba,5,5,5,20,0,0,5,0.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Al Wahedo,5,5,5,5,4,0,5,80.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Al sharif Alagib,1,1,1,1,1,0,1,100.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Al-Halila village,3,3,3,6,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,Al-Masoudiya Village,3,3,3,6,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,Al-Ramash villages,3,3,3,6,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,Al-Rbah village,4,4,4,7,1,1,3,25.0,25.0,25.0,0.13,0.88,0.75,True
+Community,Al-Salam Neighborhood,3,3,3,5,1,1,2,33.33,33.33,33.33,0.1,0.88,0.78,True
+Community,Al_Saraf,6,6,6,12,0,0,6,0.0,0.0,0.0,0.2,0.0,-0.2,True
+Community,Alamara Wad_ Alzeen,7,7,7,11,3,1,6,42.86,14.29,14.29,0.23,0.88,0.65,True
+Community,Aldakhla,57,57,57,87,33,4,53,57.89,7.02,7.02,1.9,3.54,1.64,True
+Community,Alkanara,7,7,7,13,1,0,7,14.29,0.0,0.0,0.23,0.0,-0.23,True
+Community,Alkara,5,5,5,17,1,0,5,20.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Alkhatmia Algadeema,8,8,8,8,2,0,8,25.0,0.0,0.0,0.27,0.0,-0.27,True
+Community,Alkurmuta,16,16,14,56,0,0,16,0.0,0.0,0.0,0.53,0.0,-0.53,True
+Community,Almatama/ Shobra Associatin,13,13,13,20,8,0,13,61.54,0.0,0.0,0.43,0.0,-0.43,True
+Community,Alreemela,4,4,4,8,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,Alsafa,25,25,25,25,16,2,23,64.0,8.0,8.0,0.83,1.77,0.94,True
+Community,Alsouq Alshabii,6,6,6,24,0,0,6,0.0,0.0,0.0,0.2,0.0,-0.2,True
+Community,Amarat Al khawalda,5,5,5,28,0,0,5,0.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Andala,5,5,5,20,0,0,5,0.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Arkawit neighborhood,4,4,4,5,3,0,4,75.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,BAGDAD,129,129,129,169,4,1,128,3.1,0.78,0.78,4.3,0.88,-3.42,True
+Community,BUNAGA TAGAMOA,86,86,86,109,27,1,85,31.4,1.16,1.16,2.87,0.88,-1.98,True
+Community,Baghdad,3,3,3,3,1,1,2,33.33,33.33,33.33,0.1,0.88,0.78,True
+Community,Banat,11,11,11,17,1,1,10,9.09,9.09,9.09,0.37,0.88,0.52,True
+Community,Bandigaw,8,8,8,14,0,0,8,0.0,0.0,0.0,0.27,0.0,-0.27,True
+Community,Barbar Elfugra,20,20,20,31,6,1,19,30.0,5.0,5.0,0.67,0.88,0.22,True
+Community,Barqo Wad Al-Abbas Block 166,3,3,3,6,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,Beiryay,6,6,6,24,0,0,6,0.0,0.0,0.0,0.2,0.0,-0.2,True
+Community,Berber,161,161,161,162,82,12,149,50.93,7.45,7.45,5.37,10.62,5.25,False
+Community,Block 150,3,3,3,6,1,0,3,33.33,0.0,0.0,0.1,0.0,-0.1,True
+Community,Dalasa,3,3,3,12,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,Dar Al saalam,14,14,14,15,0,0,14,0.0,0.0,0.0,0.47,0.0,-0.47,True
+Community,Dar elnaeem,6,6,6,6,5,2,4,83.33,33.33,33.33,0.2,1.77,1.57,True
+Community,El Zalag,3,3,3,18,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,El_Murabaa,7,7,7,14,0,0,7,0.0,0.0,0.0,0.23,0.0,-0.23,True
+Community,Eljerefat,39,39,39,52,0,0,39,0.0,0.0,0.0,1.3,0.0,-1.3,True
+Community,Fadoqouba village,3,3,3,4,2,0,3,66.67,0.0,0.0,0.1,0.0,-0.1,True
+Community,GRIGANA,4,4,4,6,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,GalAlNhal town,37,37,37,56,4,1,36,10.81,2.7,2.7,1.23,0.88,-0.35,True
+Community,Girba,24,24,24,24,13,2,22,54.17,8.33,8.33,0.8,1.77,0.97,True
+Community,Guraisha town,12,12,12,18,0,0,12,0.0,0.0,0.0,0.4,0.0,-0.4,True
+Community,Helat Yousef,16,16,16,22,0,0,16,0.0,0.0,0.0,0.53,0.0,-0.53,True
+Community,Idris Mustafa Village,2,2,2,4,0,0,2,0.0,0.0,0.0,0.07,0.0,-0.07,True
+Community,Jabir,11,11,11,16,0,0,11,0.0,0.0,0.0,0.37,0.0,-0.37,True
+Community,Jabir Village,8,8,8,15,0,0,8,0.0,0.0,0.0,0.27,0.0,-0.27,True
+Community,Jalqani village,3,3,3,4,2,1,2,66.67,33.33,33.33,0.1,0.88,0.78,True
+Community,Kalahoot,24,24,24,24,13,2,22,54.17,8.33,8.33,0.8,1.77,0.97,True
+Community,Ketyab/ Ashab Almsharee Alkhsosia Ass.,104,104,104,173,62,5,99,59.62,4.81,4.81,3.47,4.42,0.96,True
+Community,Khor Zaraf,8,8,8,15,0,0,8,0.0,0.0,0.0,0.27,0.0,-0.27,True
+Community,Kubri 5,1,1,1,2,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Kurmuta,25,25,25,25,2,1,24,8.0,4.0,4.0,0.83,0.88,0.05,True
+Community,Nagazo/ Hassad Alamal Association,49,49,49,79,30,6,43,61.22,12.24,12.24,1.63,5.31,3.68,True
+Community,North Sawagi,43,43,43,53,6,1,42,13.95,2.33,2.33,1.43,0.88,-0.55,True
+Community,QABATI,7,7,6,12,4,0,7,66.67,0.0,0.0,0.23,0.0,-0.23,True
+Community,Sabarna,8,8,8,11,1,1,7,12.5,12.5,12.5,0.27,0.88,0.62,True
+Community,Sha'a Al-Din Village,2,2,2,3,1,0,2,50.0,0.0,0.0,0.07,0.0,-0.07,True
+Community,Shagairab,5,5,5,20,0,0,5,0.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Shamal Alhlanga,10,10,10,10,7,1,9,70.0,10.0,10.0,0.33,0.88,0.55,True
+Community,Shoieb Village,27,27,27,46,1,0,27,3.7,0.0,0.0,0.9,0.0,-0.9,True
+Community,Sid Mahdi,4,4,4,5,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,South Sawagi,49,49,49,49,22,2,47,44.9,4.08,4.08,1.63,1.77,0.14,True
+Community,Tabarakalla,27,27,27,43,1,0,27,3.7,0.0,0.0,0.9,0.0,-0.9,True
+Community,Tambi,4,4,4,12,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,Tokar,43,43,41,58,3,2,41,7.32,4.88,4.65,1.43,1.77,0.34,True
+Community,UM SENABRA,51,51,51,63,1,0,51,1.96,0.0,0.0,1.7,0.0,-1.7,True
+Community,Um Kakar,25,25,25,42,0,0,25,0.0,0.0,0.0,0.83,0.0,-0.83,True
+Community,Umblail,12,12,12,12,10,3,9,83.33,25.0,25.0,0.4,2.65,2.25,True
+Community,Umm Daqrasi village,4,4,4,5,3,1,3,75.0,25.0,25.0,0.13,0.88,0.75,True
+Community,Village 10,7,7,7,13,0,0,7,0.0,0.0,0.0,0.23,0.0,-0.23,True
+Community,Village 11,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 12,6,6,6,11,0,0,6,0.0,0.0,0.0,0.2,0.0,-0.2,True
+Community,Village 14,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 15,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 17,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 18,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 19,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 20,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 21,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 22,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 23,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 25,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 26,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 29,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 31,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 32,1,1,1,1,1,0,1,100.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 37,1,1,1,1,0,0,1,0.0,0.0,0.0,0.03,0.0,-0.03,True
+Community,Village 9,29,29,29,29,2,2,27,6.9,6.9,6.9,0.97,1.77,0.8,True
+Community,WAD WIDIDA,98,98,98,135,9,0,98,9.18,0.0,0.0,3.27,0.0,-3.27,True
+Community,Wad Gateet,5,5,5,5,2,0,5,40.0,0.0,0.0,0.17,0.0,-0.17,True
+Community,Wad Meskeen,4,4,4,4,0,0,4,0.0,0.0,0.0,0.13,0.0,-0.13,True
+Community,Wad-Elhalangy,7,7,7,7,3,1,6,42.86,14.29,14.29,0.23,0.88,0.65,True
+Community,Wad-Kabrous,9,9,9,18,1,0,9,11.11,0.0,0.0,0.3,0.0,-0.3,True
+Community,Wad_Elbushra,3,3,3,6,0,0,3,0.0,0.0,0.0,0.1,0.0,-0.1,True
+Community,West Al Gash,8,8,6,24,0,0,8,0.0,0.0,0.0,0.27,0.0,-0.27,True
+Community,om Gamis,4,4,4,4,2,0,4,50.0,0.0,0.0,0.13,0.0,-0.13,True
+Type of Support,"Agricultural inputs (seeds, tools, fertilizer)",2000,2000,1999,2444,469,55,1945,23.46,2.75,2.75,66.67,48.67,-17.99,False
+Type of Support,CMC Capacity building,45,45,45,45,14,7,38,31.11,15.56,15.56,1.5,6.19,4.69,True
+Type of Support,Drinking Water,196,196,190,474,55,9,187,28.95,4.74,4.59,6.53,7.96,1.43,True
+Type of Support,Micro-grant / VSLA,288,288,286,458,18,4,284,6.29,1.4,1.39,9.6,3.54,-6.06,True
+Type of Support,Other,288,288,288,364,136,26,262,47.22,9.03,9.03,9.6,23.01,13.41,False
+Type of Support,Solar Irrigation,178,178,178,284,107,12,166,60.11,6.74,6.74,5.93,10.62,4.69,False
+Type of Support,WUA Member,5,5,5,17,1,0,5,20.0,0.0,0.0,0.17,0.0,-0.17,True
+SupportProject,CMC Capacity building,2,2,2,2,0,0,2,0.0,0.0,0.0,0.07,0.0,-0.07,True
+SupportProject,EAA,2412,2412,2411,3045,657,90,2322,27.25,3.73,3.73,80.4,79.65,-0.75,False
+SupportProject,GIZ,86,86,86,140,6,1,85,6.98,1.16,1.16,2.87,0.88,-1.98,True
+SupportProject,Italy,76,76,76,120,5,1,75,6.58,1.32,1.32,2.53,0.88,-1.65,True
+SupportProject,JSB,21,21,19,23,3,2,19,15.79,10.53,9.52,0.7,1.77,1.07,True
+SupportProject,KS Relief,37,37,37,37,21,4,33,56.76,10.81,10.81,1.23,3.54,2.31,True
+SupportProject,KSRelief,84,84,80,305,1,0,84,1.25,0.0,0.0,2.8,0.0,-2.8,True
+SupportProject,Kuwait-447,75,75,73,132,33,5,70,45.21,6.85,6.67,2.5,4.42,1.92,True
+SupportProject,Micro-grant / VSLA,2,2,2,3,0,0,2,0.0,0.0,0.0,0.07,0.0,-0.07,True
+SupportProject,SDC,118,118,118,150,24,4,114,20.34,3.39,3.39,3.93,3.54,-0.39,True
+SupportProject,Unknown,87,87,87,129,50,6,81,57.47,6.9,6.9,2.9,5.31,2.41,True
+Age group,15-24,384,384,384,446,138,15,369,35.94,3.91,3.91,12.8,13.27,0.47,False
+Age group,25-34,761,761,760,922,251,44,717,33.03,5.79,5.78,25.37,38.94,13.57,False
+Age group,35-44,643,643,641,831,148,22,621,23.09,3.43,3.42,21.43,19.47,-1.96,False
+Age group,45-59,567,567,567,759,127,16,551,22.4,2.82,2.82,18.9,14.16,-4.74,False
+Age group,60+,278,278,278,383,60,6,272,21.58,2.16,2.16,9.27,5.31,-3.96,True
+Age group,Unknown / invalid,367,367,361,745,76,10,357,21.05,2.77,2.72,12.23,8.85,-3.38,False

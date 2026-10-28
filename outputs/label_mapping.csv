@@ -1,0 +1,169 @@
+attribute,code,labels,reliable
+State,STATE_004,Al Jazeera,True
+State,STATE_005,Gedaref,True
+State,STATE_006,Kassala,True
+State,STATE_007,Red Sea,True
+State,STATE_008,River Nile,True
+State,STATE_009,Sennar,True
+State,STATE_010,White Nile,True
+Gender,GEN_1.242365192107026,Female,True
+Gender,GEN_3.133859511147554,Male,True
+Gender,GEN_5.253370332742474,Unknown,False
+Locality,LOC_003,Ad-Damer,True
+Locality,LOC_005,Al Fashaga,True
+Locality,LOC_007,Al-Hasahisa,True
+Locality,LOC_008,Aljabalin,True
+Locality,LOC_009,Al-Kamilin locality,True
+Locality,LOC_010,Almatama,True
+Locality,LOC_013,Berber,True
+Locality,LOC_015,Central Gedaref,True
+Locality,LOC_016,Elmafaza,True
+Locality,LOC_017,Elrahad,True
+Locality,LOC_018,Galaelnahel,True
+Locality,LOC_020,Girba,True
+Locality,LOC_021,Guli,True
+Locality,LOC_022,Guraisha,True
+Locality,LOC_024,Kassala,True
+Locality,LOC_025,Khashm El Girba,True
+Locality,LOC_026,Unknown,False
+Locality,LOC_027,New Halfa,True
+Locality,LOC_028,Rural Gedaref,True
+Locality,LOC_029,Sinja,True
+Locality,LOC_030,Tokar,True
+Locality,LOC_031,Wad ElHilew | Wad Elhilew,False
+Locality,LOC_032,West Galabat,True
+Locality,Unknown,Unknown,False
+Community,COM_002,0,True
+Community,COM_003,1 Arab,True
+Community,COM_004,Aboreed,True
+Community,COM_005,ABU ALNAGA-GARIB,True
+Community,COM_006,ABU NAGA SHEMAL,True
+Community,COM_007,Abualnaja North,True
+Community,COM_008,Abunajah North,True
+Community,COM_009,Abunajah Tajamu,True
+Community,COM_010,Abunajah West,True
+Community,COM_011,Al Damer,True
+Community,COM_012,Al Manaba,True
+Community,COM_013,Al sharif Alagib,True
+Community,COM_014,Al Wahedo,True
+Community,COM_015,Al_Saraf,True
+Community,COM_016,Alamara Wad_ Alzeen,True
+Community,COM_017,Aldakhla,True
+Community,COM_018,Al-Halila village,True
+Community,COM_019,ALIA HOSPITAL,True
+Community,COM_020,Alkanara,True
+Community,COM_021,Alkara,True
+Community,COM_022,Alkhatmia Algadeema,True
+Community,COM_023,Alkurmuta,True
+Community,COM_024,Al-Masoudiya Village,True
+Community,COM_025,Almatama/ Shobra Associatin,True
+Community,COM_026,Al-Ramash villages,True
+Community,COM_027,Al-Rbah village,True
+Community,COM_028,Alreemela,True
+Community,COM_029,AL-REHID,True
+Community,COM_030,Alsafa,True
+Community,COM_031,Al-Salam Neighborhood,True
+Community,COM_032,ALSAWARD,True
+Community,COM_033,AL-SAyAL,True
+Community,COM_034,Alsouq Alshabii,True
+Community,COM_035,ALusharjet,True
+Community,COM_036,Amarat Al khawalda,True
+Community,COM_037,Andala,True
+Community,COM_038,Arkawit neighborhood,True
+Community,COM_039,BAGDAD,True
+Community,COM_040,Baghdad,True
+Community,COM_041,Banat,True
+Community,COM_042,Bandigaw,True
+Community,COM_043,Bandigaw,True
+Community,COM_044,Barbar Elfugra,True
+Community,COM_046,Barqo Wad Al-Abbas Block 166,True
+Community,COM_047,Beiryay,True
+Community,COM_048,Berber,True
+Community,COM_049,Block 150,True
+Community,COM_050,Block 150,True
+Community,COM_051,BUNAGA TAGAMOA,True
+Community,COM_052,Dalasa,True
+Community,COM_053,Dar Al saalam,True
+Community,COM_054,Dar elnaeem,True
+Community,COM_056,El Zalag,True
+Community,COM_057,El_Murabaa,True
+Community,COM_058,Eljerefat,True
+Community,COM_059,Fadoqouba village,True
+Community,COM_060,GalAlNhal town,True
+Community,COM_061,Girba,True
+Community,COM_062,GRIGANA,True
+Community,COM_063,Guraisha town,True
+Community,COM_064,Helat Yousef,True
+Community,COM_065,Idris Mustafa Village,True
+Community,COM_066,Jabir,True
+Community,COM_067,Jabir Village,True
+Community,COM_068,Jalqani village,True
+Community,COM_069,Kalahoot,True
+Community,COM_070,Ketyab/ Ashab Almsharee Alkhsosia Ass.,True
+Community,COM_071,Khor Zaraf,True
+Community,COM_072,Kubri 5,True
+Community,COM_073,Kurmuta,True
+Community,COM_074,Nagazo/ Hassad Alamal Association,True
+Community,COM_075,North Sawagi,True
+Community,COM_076,om Gamis,True
+Community,COM_077,QABATI,True
+Community,COM_078,Sabarna,True
+Community,COM_079,Sha'a Al-Din Village,True
+Community,COM_080,Shagairab,True
+Community,COM_081,Shamal Alhlanga,True
+Community,COM_082,Shoieb Village,True
+Community,COM_083,Sid Mahdi,True
+Community,COM_084,South Sawagi,True
+Community,COM_085,Tabarakalla,True
+Community,COM_086,Tambi,True
+Community,COM_087,Tokar,True
+Community,COM_088,Um Kakar,True
+Community,COM_089,UM SENABRA,True
+Community,COM_091,Umblail,True
+Community,COM_092,Umm Daqrasi village,True
+Community,COM_094,Village 10,True
+Community,COM_095,Village 11,True
+Community,COM_096,Village 12,True
+Community,COM_097,Village 14,True
+Community,COM_098,Village 15,True
+Community,COM_099,Village 17,True
+Community,COM_100,Village 18,True
+Community,COM_101,Village 19,True
+Community,COM_102,Village 20,True
+Community,COM_103,Village 21,True
+Community,COM_104,Village 22,True
+Community,COM_105,Village 23,True
+Community,COM_106,Village 25,True
+Community,COM_107,Village 26,True
+Community,COM_108,Village 29,True
+Community,COM_109,Village 31,True
+Community,COM_110,Village 32,True
+Community,COM_111,Village 37,True
+Community,COM_112,Village 9,True
+Community,COM_113,Wad Gateet,True
+Community,COM_114,Wad Meskeen,True
+Community,COM_115,WAD WIDIDA,True
+Community,COM_116,Wad_Elbushra,True
+Community,COM_117,Wad-Elhalangy,True
+Community,COM_118,Wad-Kabrous,True
+Community,COM_119,West Al Gash,True
+Type of Support,TYPE_002,"Agricultural inputs (seeds, tools, fertilizer)",True
+Type of Support,TYPE_003,CMC Capacity building,True
+Type of Support,TYPE_004,Drinking Water,True
+Type of Support,TYPE_005,Micro-grant / VSLA,True
+Type of Support,TYPE_006,Other,True
+Type of Support,TYPE_007,Solar Irrigation,True
+Type of Support,TYPE_008,Solar Irrigation,True
+Type of Support,TYPE_009,WUA Member,True
+SupportProject,SUPP_002,CMC Capacity building,True
+SupportProject,SUPP_003,EAA,True
+SupportProject,SUPP_004,GIZ,True
+SupportProject,SUPP_005,Italy,True
+SupportProject,SUPP_006,JSB,True
+SupportProject,SUPP_007,KS Relief,True
+SupportProject,SUPP_008,KSRelief,True
+SupportProject,SUPP_009,Kuwait-447,True
+SupportProject,SUPP_010,Micro-grant / VSLA,True
+SupportProject,SUPP_011,Unknown,False
+SupportProject,SUPP_012,SDC,True
+SupportProject,Unknown,Unknown,False

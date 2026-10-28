@@ -1,0 +1,20 @@
+metric,reported,recomputed,difference,explanation
+Unique phones called,3002,3002,0,Includes four pre-launch contacts; scheduled rows are not confirmed carrier-level retry events.
+Unique reached,804,804,0,"Any Finished status, disjoint ever-reached classification."
+Never answered,2198,2198,0,Called phones with no Finished status across any attempt.
+Intro snapshot,561,568,7,Undated subscriber snapshot; not an intro-play event.
+Started proxy,211,220,9,"Q01 present, since started flag is entirely empty; not necessarily same report definition."
+Completed response records,117,116,-1,116 response records; 133 log flags; no basis to manufacture the reported 117th response.
+R1Q01 subscriber answers,211,220,9,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q02 subscriber answers,32,35,3,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q03 subscriber answers,180,191,11,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q04 subscriber answers,169,181,12,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q05 subscriber answers,153,168,15,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q06 subscriber answers,146,160,14,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q07 subscriber answers,57,62,5,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q08 subscriber answers,85,92,7,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q09 subscriber answers,135,146,11,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q10 subscriber answers,129,141,12,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q11 subscriber answers,127,138,11,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q12 subscriber answers,123,134,11,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
+R1Q13 subscriber answers,120,133,13,Subscriber snapshots are not attempt-level responses; branching and snapshot scope prevent direct attrition inference.
